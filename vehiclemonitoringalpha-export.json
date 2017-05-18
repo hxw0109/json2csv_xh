@@ -1,10 +1,6 @@
 {
   "activities" : {
     "AVL Vehicle 2" : {
-      "-Khd02jM4NTavQbdcb0o" : {
-        "duration" : 2236240,
-        "durationInVehicle" : 128511
-      },
       "-Khd02jM4NTavQbdcb0p" : {
         "category" : "Check Out",
         "description" : "Vehicle is checked out by ndamji.",
