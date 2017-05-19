@@ -4,7 +4,7 @@ from functools import reduce
 import operator
 import csv
 from datetime import datetime
-import pandas, glob, xlwt, os
+import glob, xlwt, os
 
 fp = open('vehiclemonitoringalpha-export.json', 'r')
 rawData = json.load(fp)
@@ -18,7 +18,19 @@ timeRefPython = datetime(1970,1,1,0,0,0)
 timeRefSwift = datetime(2001,1,1,0,0,0)
 deltaT_in_seconds = (timeRefSwift-timeRefPython).total_seconds()
 
-# Get activity and usage data
+# Get vehicle data
+vehicleData = getDataFromJson(rawData, ["vehicle"])
+csvFilename = "vehicle.csv"
+csvFileheader = ['vehicleID','username','userID','isOut','refTimestampValue','date','duration','durationInVehicle','location','refEventDurationInVehicle', 'refEventDuration', 'refIsInRangeValue', 'refActivityKey', 'refActivityDuration', 'refActivityDurationInVehicle', 'refIsOutValue', 'refUsageKey', 'refTimestampKey', 'refEventKey','imageURL']
+with open(csvFilename,'w',newline='') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=csvFileheader)
+    writer.writeheader()
+    for vehicle in vehicleList:
+        timestamp = vehicleData[vehicle]["refTimestampValue"] + deltaT_in_seconds
+        vehicleData[vehicle]["date"] = str(datetime.fromtimestamp(timestamp))
+        writer.writerow(vehicleData[vehicle])
+
+# Get event, activity andd usage data
 for vehicle in vehicleList:
     activityData = getDataFromJson(rawData, ["activities", vehicle])
     csvFilename = "activity " + vehicle + ".csv"
@@ -55,6 +67,7 @@ for vehicle in vehicleList:
             timestamp = eventData[key]["timestamp"] + deltaT_in_seconds
             eventData[key]["date"] = str(datetime.fromtimestamp(timestamp))
             writer.writerow(eventData[key])
+
 
 # Write file to excel format
 wb = xlwt.Workbook()
