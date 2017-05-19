@@ -1,7 +1,7 @@
-key,category,description,duration,durationInVehicle,location,timestamp,userID,username,date
--KiGwgJLqrdfKxLYOCOh,Check Out,Vehicle is checked out by Paul.,0,0,,514495058,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-04-21 15:17:38
--KiGwgJQn70GmsSYGMNZ,HiL Commissioning,Description of the activity...,501183,88903,Ford Dearborn,514495058,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-04-21 15:17:38
--Kijo1x9dSOX8oAwBLZb,HiL Commissioning,Description of the activity...,18596,12755,Ford Dearborn,514996108,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-04-27 10:28:28
--Kikuz0Eqo0x0Kh_ZR2H,Software Validation,Description of the activity...,603969,117502,Ford Dearborn,515014704,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-04-27 15:38:24
--KjJuwWYYuJm-fok6wWz,HiL Commissioning,Description of the activity...,595261,72684,Ford Dearborn,515618673,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-05-04 15:24:33
--KjsOfkJQo0iMrbvz61v,HiL Debug,Description of the activity...,600216,138394,Ford Dearborn,516213934,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-05-11 12:45:34
+key,category,description,duration,Total Time,durationInVehicle,Time in Vehicle,location,timestamp,userID,username,date
+-KiGwgJLqrdfKxLYOCOh,Check Out,Vehicle is checked out by Paul.,0,0.0,0,0.0,,514495058,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-04-21 15:17:38
+-KiGwgJQn70GmsSYGMNZ,HiL Commissioning,Description of the activity...,501183,139.2175,88903,24.69527777777778,Ford Dearborn,514495058,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-04-21 15:17:38
+-Kijo1x9dSOX8oAwBLZb,HiL Commissioning,Description of the activity...,18596,5.165555555555556,12755,3.5430555555555556,Ford Dearborn,514996108,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-04-27 10:28:28
+-Kikuz0Eqo0x0Kh_ZR2H,Software Validation,Description of the activity...,603969,167.76916666666668,117502,32.63944444444444,Ford Dearborn,515014704,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-04-27 15:38:24
+-KjJuwWYYuJm-fok6wWz,HiL Commissioning,Description of the activity...,595261,165.3502777777778,72684,20.19,Ford Dearborn,515618673,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-05-04 15:24:33
+-KjsOfkJQo0iMrbvz61v,HiL Debug,Description of the activity...,600216,166.72666666666666,138394,38.44277777777778,Ford Dearborn,516213934,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-05-11 12:45:34

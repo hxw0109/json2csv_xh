@@ -1,31 +1,31 @@
-key,category,description,duration,durationInVehicle,location,timestamp,userID,username,date
--KiBeQjPW7pgz2FHX2-r,Check Out,Vehicle is checked out by Xinwei Hu.,0,0,,514406385,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-20 14:39:45
--KiBeQjRd8PgQFLGvGsX,To Work,Description of the activity...,5317,11,Work,514406385,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-20 14:39:45
--KiByhqHh4NQJR9PEt2q,To Home,Description of the activity...,62826,6513,Home,514411702,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-20 16:08:22
--KiFiN3lZvSMLzam4m56,To Work,Description of the activity...,7079,527,Work,514474528,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-21 09:35:28
--KiG8NUFsNCUIMRRV_dU,To Home,Description of the activity...,4104,1058,Home,514481607,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-21 11:33:27
--KiGO1Jb-S8FFWZPqQAz,To Work,Description of the activity...,10353,4695,Work,514485711,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-21 12:41:51
--KiH-WrfGNgNQ2bYULjV,To Home,Description of the activity...,421562,354931,Home,514496064,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-21 15:34:24
--Kif7eVs5alk44PRGgQR,To Work,Description of the activity...,502050,32455,Work,514917626,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-26 12:40:26
--Kj82p46h4BKUc9GBVaW,Check In,Vehice is checked in...,408,408,Work,515419676,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:07:56
--Kj84Ns0A5N1gC8pIMCf,Check Out,Vehicle is checked out by Xinwei Hu.,0,0,,515420084,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:14:44
--Kj84Ns320ERsjuAnaJ7,To Work,Description of the activity...,1817,1725,Work,515420084,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:14:44
--Kj8BJTAqvLVvIp0JOJP,Check In,Vehice is checked in...,126,126,Work,515421901,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:45:01
--Kj8Bn35zf8PYW9HePL9,Check Out,Vehicle is checked out by Xinwei Hu.,226,226,,515422027,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:47:07
--Kj8Bn37NtzWVl0GLbbG,To Work,Description of the activity...,122,122,Work,515422027,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:47:07
--Kj8CFugQ2UdZxpwlRTe,To Work,Description of the activity...,104,104,Work,515422149,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:49:09
--Kj8CeNfZx-xvSX2R8fv,Check In,Vehice is checked in...,8370,6648,Work,515422253,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:50:53
--Kj8h_pvgGnrdEobKNIM,Check Out,Vehicle is checked out by Xinwei Hu.,266467,43686,,515430623,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 11:10:23
--Kj8h_pzpDeVEPGvVSQt,To Work,Description of the activity...,402,402,Work,515430623,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 11:10:23
--Kj8j70ldoiixxpkXTUV,Miscs,Description of the activity...,417,417,Miscs,515431025,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 11:17:05
--Kj8khm7nhUpasMMbx13,To Work,Description of the activity...,986,500,Work,515431442,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 11:24:02
--Kj8oTXeo9D7DZAAq4Cb,To Work,Description of the activity...,264662,42367,Work,515432428,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 11:40:28
--KjOa48Jjt05HcGHQcmo,Check In,Vehice is checked in...,853,0,Work,515697090,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-05 13:11:30
--KjOdK_as1Oo6_OT78VM,Check Out,Vehicle is checked out by X.,428773,3697,,515697943,DUa7IcZtVZS2nlOt5JkT7flhWpD3,X,2017-05-05 13:25:43
--KjOdK_esI--YVl0J7FV,To Home,Description of the activity...,249045,2804,Home,515697943,DUa7IcZtVZS2nlOt5JkT7flhWpD3,X,2017-05-05 13:25:43
--KjcUMaA61juDI6Q0qvl,To Work,Description of the activity...,6110,863,Work,515946988,DUa7IcZtVZS2nlOt5JkT7flhWpD3,X,2017-05-08 10:36:28
--KjcqfBawS-rkghaiuZG,Entertainment,Description of the activity...,173618,30,Miscs,515953098,DUa7IcZtVZS2nlOt5JkT7flhWpD3,X,2017-05-08 12:18:18
--KjnByFsqHw85ywUKQgn,Check In,Vehice is checked in...,103,80,Work,516126716,DUa7IcZtVZS2nlOt5JkT7flhWpD3,X,2017-05-10 12:31:56
--KjnCMYTfDHoMPx6JUOM,Check Out,Vehicle is checked out by Xinwei Hu.,705507,14812,,516126819,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-10 12:33:39
--KjnCMYWMXuADgOQUDk6,To Restaurant,Description of the activity...,521048,6135,Restaurant,516126819,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-10 12:33:39
--KkHG-Fz4vA4Z6igp7ZG,To Work,Description of the activity...,184459,8677,Work,516647867,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-16 13:17:47
+key,category,description,duration,Total Time,durationInVehicle,Time in Vehicle,location,timestamp,userID,username,date
+-KiBeQjPW7pgz2FHX2-r,Check Out,Vehicle is checked out by Xinwei Hu.,0,0.0,0,0.0,,514406385,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-20 14:39:45
+-KiBeQjRd8PgQFLGvGsX,To Work,Description of the activity...,5317,1.4769444444444444,11,0.0030555555555555557,Work,514406385,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-20 14:39:45
+-KiByhqHh4NQJR9PEt2q,To Home,Description of the activity...,62826,17.451666666666668,6513,1.8091666666666666,Home,514411702,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-20 16:08:22
+-KiFiN3lZvSMLzam4m56,To Work,Description of the activity...,7079,1.966388888888889,527,0.1463888888888889,Work,514474528,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-21 09:35:28
+-KiG8NUFsNCUIMRRV_dU,To Home,Description of the activity...,4104,1.14,1058,0.29388888888888887,Home,514481607,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-21 11:33:27
+-KiGO1Jb-S8FFWZPqQAz,To Work,Description of the activity...,10353,2.8758333333333335,4695,1.3041666666666667,Work,514485711,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-21 12:41:51
+-KiH-WrfGNgNQ2bYULjV,To Home,Description of the activity...,421562,117.10055555555556,354931,98.59194444444445,Home,514496064,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-21 15:34:24
+-Kif7eVs5alk44PRGgQR,To Work,Description of the activity...,502050,139.45833333333334,32455,9.015277777777778,Work,514917626,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-04-26 12:40:26
+-Kj82p46h4BKUc9GBVaW,Check In,Vehice is checked in...,408,0.11333333333333333,408,0.11333333333333333,Work,515419676,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:07:56
+-Kj84Ns0A5N1gC8pIMCf,Check Out,Vehicle is checked out by Xinwei Hu.,0,0.0,0,0.0,,515420084,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:14:44
+-Kj84Ns320ERsjuAnaJ7,To Work,Description of the activity...,1817,0.5047222222222222,1725,0.4791666666666667,Work,515420084,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:14:44
+-Kj8BJTAqvLVvIp0JOJP,Check In,Vehice is checked in...,126,0.035,126,0.035,Work,515421901,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:45:01
+-Kj8Bn35zf8PYW9HePL9,Check Out,Vehicle is checked out by Xinwei Hu.,226,0.06277777777777778,226,0.06277777777777778,,515422027,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:47:07
+-Kj8Bn37NtzWVl0GLbbG,To Work,Description of the activity...,122,0.03388888888888889,122,0.03388888888888889,Work,515422027,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:47:07
+-Kj8CFugQ2UdZxpwlRTe,To Work,Description of the activity...,104,0.028888888888888888,104,0.028888888888888888,Work,515422149,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:49:09
+-Kj8CeNfZx-xvSX2R8fv,Check In,Vehice is checked in...,8370,2.325,6648,1.8466666666666667,Work,515422253,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 08:50:53
+-Kj8h_pvgGnrdEobKNIM,Check Out,Vehicle is checked out by Xinwei Hu.,266467,74.01861111111111,43686,12.135,,515430623,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 11:10:23
+-Kj8h_pzpDeVEPGvVSQt,To Work,Description of the activity...,402,0.11166666666666666,402,0.11166666666666666,Work,515430623,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 11:10:23
+-Kj8j70ldoiixxpkXTUV,Miscs,Description of the activity...,417,0.11583333333333333,417,0.11583333333333333,Miscs,515431025,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 11:17:05
+-Kj8khm7nhUpasMMbx13,To Work,Description of the activity...,986,0.2738888888888889,500,0.1388888888888889,Work,515431442,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 11:24:02
+-Kj8oTXeo9D7DZAAq4Cb,To Work,Description of the activity...,264662,73.51722222222222,42367,11.768611111111111,Work,515432428,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-02 11:40:28
+-KjOa48Jjt05HcGHQcmo,Check In,Vehice is checked in...,853,0.23694444444444446,0,0.0,Work,515697090,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-05 13:11:30
+-KjOdK_as1Oo6_OT78VM,Check Out,Vehicle is checked out by X.,428773,119.1036111111111,3697,1.0269444444444444,,515697943,DUa7IcZtVZS2nlOt5JkT7flhWpD3,X,2017-05-05 13:25:43
+-KjOdK_esI--YVl0J7FV,To Home,Description of the activity...,249045,69.17916666666666,2804,0.7788888888888889,Home,515697943,DUa7IcZtVZS2nlOt5JkT7flhWpD3,X,2017-05-05 13:25:43
+-KjcUMaA61juDI6Q0qvl,To Work,Description of the activity...,6110,1.6972222222222222,863,0.23972222222222223,Work,515946988,DUa7IcZtVZS2nlOt5JkT7flhWpD3,X,2017-05-08 10:36:28
+-KjcqfBawS-rkghaiuZG,Entertainment,Description of the activity...,173618,48.227222222222224,30,0.008333333333333333,Miscs,515953098,DUa7IcZtVZS2nlOt5JkT7flhWpD3,X,2017-05-08 12:18:18
+-KjnByFsqHw85ywUKQgn,Check In,Vehice is checked in...,103,0.02861111111111111,80,0.022222222222222223,Work,516126716,DUa7IcZtVZS2nlOt5JkT7flhWpD3,X,2017-05-10 12:31:56
+-KjnCMYTfDHoMPx6JUOM,Check Out,Vehicle is checked out by Xinwei Hu.,705507,195.97416666666666,14812,4.114444444444445,,516126819,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-10 12:33:39
+-KjnCMYWMXuADgOQUDk6,To Restaurant,Description of the activity...,521048,144.73555555555555,6135,1.7041666666666666,Restaurant,516126819,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-10 12:33:39
+-KkHG-Fz4vA4Z6igp7ZG,To Work,Description of the activity...,184459,51.23861111111111,8677,2.410277777777778,Work,516647867,NtA4VhpCb3TGYz3tI3CkfmuQF7f2,Xinwei Hu,2017-05-16 13:17:47
