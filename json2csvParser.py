@@ -28,8 +28,8 @@ with open(csvFilename,'w',newline='') as csvfile:
     for vehicle in vehicleList:
         timestamp = vehicleData[vehicle]["refTimestampValue"] + deltaT_in_seconds
         vehicleData[vehicle]["date"] = str(datetime.fromtimestamp(timestamp))
-        vehicleData[vehicle]['Total Time'] = vehicleData[vehicle]['duration']/3600
-        vehicleData[vehicle]['Time in Vehicle'] = vehicleData[vehicle]['durationInVehicle']/3600
+        vehicleData[vehicle]['Total Time'] = float(vehicleData[vehicle]['duration']/3600)
+        vehicleData[vehicle]['Time in Vehicle'] = float(vehicleData[vehicle]['durationInVehicle']/3600)
         writer.writerow(vehicleData[vehicle])
 
 # Get event, activity andd usage data
@@ -44,8 +44,8 @@ for vehicle in vehicleList:
             activityData[key]["key"] = key
             timestamp = activityData[key]["timestamp"] + deltaT_in_seconds
             activityData[key]["date"] = str(datetime.fromtimestamp(timestamp))
-            activityData[key]['Total Time'] = activityData[key]['duration']/3600
-            activityData[key]['Time in Vehicle'] = activityData[key]['durationInVehicle']/3600
+            activityData[key]['Total Time'] = float(activityData[key]['duration']/3600)
+            activityData[key]['Time in Vehicle'] = float(activityData[key]['durationInVehicle']/3600)
             writer.writerow(activityData[key])
 
     usageData = getDataFromJson(rawData, ["usages", vehicle])
@@ -70,8 +70,8 @@ for vehicle in vehicleList:
             eventData[key]["key"] = key
             timestamp = eventData[key]["timestamp"] + deltaT_in_seconds
             eventData[key]["date"] = str(datetime.fromtimestamp(timestamp))
-            eventData[key]['Total Time'] = eventData[key]['duration'] / 3600
-            eventData[key]['Time in Vehicle'] = eventData[key]['durationInVehicle'] / 3600
+            eventData[key]['Total Time'] = float(eventData[key]['duration'] / 3600)
+            eventData[key]['Time in Vehicle'] = float(eventData[key]['durationInVehicle'] / 3600)
             writer.writerow(eventData[key])
 
 
