@@ -4,7 +4,7 @@ from functools import reduce
 import operator
 import csv
 from datetime import datetime
-import glob, xlwt, os
+import xlwt,os,glob
 
 fp = open('vehiclemonitoringalpha-export.json', 'r')
 rawData = json.load(fp)
@@ -21,20 +21,22 @@ deltaT_in_seconds = (timeRefSwift-timeRefPython).total_seconds()
 # Get vehicle data
 vehicleData = getDataFromJson(rawData, ["vehicle"])
 csvFilename = "vehicle.csv"
-csvFileheader = ['vehicleID','username','userID','isOut','refTimestampValue','date','duration','durationInVehicle','location','refEventDurationInVehicle', 'refEventDuration', 'refIsInRangeValue', 'refActivityKey', 'refActivityDuration', 'refActivityDurationInVehicle', 'refIsOutValue', 'refUsageKey', 'refTimestampKey', 'refEventKey','imageURL']
+csvFileheader = ['vehicleID','username','userID','isOut','refTimestampValue','date','duration','Total Time','durationInVehicle', 'Time in Vehicle','location','refEventDurationInVehicle', 'refEventDuration', 'refIsInRangeValue', 'refActivityKey', 'refActivityDuration', 'refActivityDurationInVehicle', 'refIsOutValue', 'refUsageKey', 'refTimestampKey', 'refEventKey','imageURL']
 with open(csvFilename,'w',newline='') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=csvFileheader)
     writer.writeheader()
     for vehicle in vehicleList:
         timestamp = vehicleData[vehicle]["refTimestampValue"] + deltaT_in_seconds
         vehicleData[vehicle]["date"] = str(datetime.fromtimestamp(timestamp))
+        vehicleData[vehicle]['Total Time'] = float(vehicleData[vehicle]['duration']/3600)
+        vehicleData[vehicle]['Time in Vehicle'] = float(vehicleData[vehicle]['durationInVehicle']/3600)
         writer.writerow(vehicleData[vehicle])
 
 # Get event, activity andd usage data
 for vehicle in vehicleList:
     activityData = getDataFromJson(rawData, ["activities", vehicle])
     csvFilename = "activity " + vehicle + ".csv"
-    csvFileheader = ["key","category","description","duration","durationInVehicle","location","timestamp","userID","username","date"]
+    csvFileheader = ["key","category","description","duration",'Total Time',"durationInVehicle",'Time in Vehicle',"location","timestamp","userID","username","date"]
     with open(csvFilename,'w',newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=csvFileheader)
         writer.writeheader()
@@ -42,6 +44,8 @@ for vehicle in vehicleList:
             activityData[key]["key"] = key
             timestamp = activityData[key]["timestamp"] + deltaT_in_seconds
             activityData[key]["date"] = str(datetime.fromtimestamp(timestamp))
+            activityData[key]['Total Time'] = float(activityData[key]['duration']/3600)
+            activityData[key]['Time in Vehicle'] = float(activityData[key]['durationInVehicle']/3600)
             writer.writerow(activityData[key])
 
     usageData = getDataFromJson(rawData, ["usages", vehicle])
@@ -58,7 +62,7 @@ for vehicle in vehicleList:
 
     eventData = getDataFromJson(rawData, ["events", vehicle])
     csvFilename = "event " + vehicle + ".csv"
-    csvFileheader = ["key","duration","durationInVehicle","event","isInRange","timestamp","userID","username","date"]
+    csvFileheader = ["key","duration",'Total Time',"durationInVehicle",'Time in Vehicle',"event","isInRange","timestamp","userID","username","date"]
     with open(csvFilename, 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=csvFileheader)
         writer.writeheader()
@@ -66,12 +70,18 @@ for vehicle in vehicleList:
             eventData[key]["key"] = key
             timestamp = eventData[key]["timestamp"] + deltaT_in_seconds
             eventData[key]["date"] = str(datetime.fromtimestamp(timestamp))
+            eventData[key]['Total Time'] = float(eventData[key]['duration'] / 3600)
+            eventData[key]['Time in Vehicle'] = float(eventData[key]['durationInVehicle'] / 3600)
             writer.writerow(eventData[key])
 
 
 # Write file to excel format
 wb = xlwt.Workbook()
-for filename in glob.glob("/Users/admin/Desktop/Python/json2csv_xh/*.csv"):
+# currentPath = os.path.basename(os.path.dirname(os.path.realpath(__file__)))
+realPath = os.path.realpath(__file__)
+dirPath = os.path.dirname(realPath)
+
+for filename in glob.glob(dirPath + "\*.csv"):
     (f_path, f_name) = os.path.split(filename)
     (f_short_name, f_extension) = os.path.splitext(f_name)
     ws = wb.add_sheet(f_short_name)
@@ -79,4 +89,4 @@ for filename in glob.glob("/Users/admin/Desktop/Python/json2csv_xh/*.csv"):
     for rowx, row in enumerate(spamReader):
         for colx, value in enumerate(row):
             ws.write(rowx, colx, value)
-wb.save("/Users/admin/Desktop/Python/json2csv_xh/summary.xls")
+wb.save(dirPath + "\summary.xls")

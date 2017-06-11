@@ -1,2 +1,2 @@
-key,duration,durationInVehicle,event,isInRange,timestamp,userID,username,date
--Khd02jM4NTavQbdcb0o,4720856,579405,Check Out,False,513808336,CvG2NFL7EWQSfN4GNduRH0k49k63,Nilufar,2017-04-13 16:32:16
+key,duration,Total Time,durationInVehicle,Time in Vehicle,event,isInRange,timestamp,userID,username,date
+-Khd02jM4NTavQbdcb0o,5008651,1391.2919444444444,591098,164.1938888888889,Check Out,False,513808336,CvG2NFL7EWQSfN4GNduRH0k49k63,Nilufar,2017-04-13 16:32:16

@@ -744,10 +744,80 @@
       "-Km1JxUWhslMkceShMvC" : {
         "category" : "To Work",
         "description" : "Description of the activity...",
-        "duration" : 1135,
-        "durationInVehicle" : 1135,
+        "duration" : 34456,
+        "durationInVehicle" : 1212,
         "location" : "School",
         "timestamp" : 518527951,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-Km3NOOTpns59FIwXmuj" : {
+        "category" : "To Home",
+        "description" : "Description of the activity...",
+        "duration" : 50582,
+        "durationInVehicle" : 2903,
+        "location" : "Work",
+        "timestamp" : 518562407,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-Km6OLa9MozL3zy-Ae_P" : {
+        "category" : "To Work",
+        "description" : "Description of the activity...",
+        "duration" : 182796,
+        "durationInVehicle" : 4048,
+        "location" : "Home",
+        "timestamp" : 518612989,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmHHedEMbNflecBr3XS" : {
+        "category" : "Shopping",
+        "description" : "Description of the activity...",
+        "duration" : 949,
+        "durationInVehicle" : 566,
+        "location" : "Home",
+        "timestamp" : 518795785,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmHLHKFecWrkb5ehRWh" : {
+        "category" : "Shopping",
+        "description" : "Description of the activity...",
+        "duration" : 4101,
+        "durationInVehicle" : 468,
+        "location" : "Shop",
+        "timestamp" : 518796734,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmH_vTj6Zt0R75yaw8C" : {
+        "category" : "To Home",
+        "description" : "Description of the activity...",
+        "duration" : 8149,
+        "durationInVehicle" : 602,
+        "location" : "Shop",
+        "timestamp" : 518800835,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmI4-sxUhpJk8mnp_NP" : {
+        "category" : "Shopping",
+        "description" : "Description of the activity...",
+        "duration" : 7216,
+        "durationInVehicle" : 2358,
+        "location" : "Home",
+        "timestamp" : 518808984,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmIVXd4YDaRN9Hh0M_s" : {
+        "category" : "To Home",
+        "description" : "Description of the activity...",
+        "duration" : 681,
+        "durationInVehicle" : 671,
+        "location" : "Shop",
+        "timestamp" : 518816200,
         "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
         "username" : "Nilufar"
       }
@@ -816,8 +886,8 @@
       "-KlZHdsM26RPa4F5b4Rm" : {
         "category" : "HiL Debug",
         "description" : "Description of the activity...",
-        "duration" : 510728,
-        "durationInVehicle" : 79660,
+        "duration" : 712966,
+        "durationInVehicle" : 180703,
         "location" : "Ford Dearborn",
         "timestamp" : 518024030,
         "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
@@ -878,10 +948,20 @@
       "-KjKHhQomhOoaud-hKK2" : {
         "category" : "To Home",
         "description" : "Description of the activity...",
-        "duration" : 2904901,
-        "durationInVehicle" : 229248,
+        "duration" : 3107391,
+        "durationInVehicle" : 240579,
         "location" : "Home",
         "timestamp" : 515624903,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmDVSlR68vrxAqCjAAd" : {
+        "category" : "Visit Friends",
+        "description" : "Description of the activity...",
+        "duration" : 146372,
+        "durationInVehicle" : 12460,
+        "location" : "Home",
+        "timestamp" : 518732294,
         "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
         "username" : "Talus"
       }
@@ -1270,8 +1350,8 @@
       "-KlUSYS6-bDmVh1MDCs3" : {
         "category" : "Check Out",
         "description" : "Vehicle is checked out by Xinwei Hu.",
-        "duration" : 610947,
-        "durationInVehicle" : 432801,
+        "duration" : 765819,
+        "durationInVehicle" : 441610,
         "location" : "",
         "timestamp" : 517943002,
         "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
@@ -1290,10 +1370,130 @@
       "-KldlVrfdEUFrbZbBvtb" : {
         "category" : "Visit Customers",
         "description" : "Description of the activity...",
-        "duration" : 437943,
-        "durationInVehicle" : 432695,
+        "duration" : 441916,
+        "durationInVehicle" : 433532,
         "location" : "Customers' Site",
         "timestamp" : 518116006,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km36Hbn9BoYYHiCSn-T" : {
+        "category" : "To Home",
+        "description" : "Description of the activity...",
+        "duration" : 62003,
+        "durationInVehicle" : 3214,
+        "location" : "Home",
+        "timestamp" : 518557922,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km6nnuxBNJIjDU2fdK3" : {
+        "category" : "To Work",
+        "description" : "Description of the activity...",
+        "duration" : 43698,
+        "durationInVehicle" : 2188,
+        "location" : "Work",
+        "timestamp" : 518619925,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km9PVO2jagZMQJk4QnQ" : {
+        "category" : "To Home",
+        "description" : "Description of the activity...",
+        "duration" : 37492,
+        "durationInVehicle" : 1361,
+        "location" : "Home",
+        "timestamp" : 518663623,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmBdWhftCtbHeNAzBh8" : {
+        "category" : "To Work",
+        "description" : "Description of the activity...",
+        "duration" : 7706,
+        "durationInVehicle" : 1209,
+        "location" : "Work",
+        "timestamp" : 518701115,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC5vD4GUKXt1e_GUkx" : {
+        "category" : "Check In",
+        "description" : "Vehice is checked in...",
+        "duration" : 76,
+        "durationInVehicle" : 0,
+        "location" : "Work",
+        "timestamp" : 518708821,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC6Cc0cTZKvc2m-fPH" : {
+        "category" : "Check Out",
+        "description" : "Vehicle is checked out by Xinwei Hu.",
+        "duration" : 172814,
+        "durationInVehicle" : 12454,
+        "location" : "",
+        "timestamp" : 518708897,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC6Cc2MlXYfdICZ-4W" : {
+        "category" : "To Restaurant",
+        "description" : "Lunch",
+        "duration" : 16779,
+        "durationInVehicle" : 1563,
+        "location" : "Restaurant",
+        "timestamp" : 518708897,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmD6DBK1d9o0cyNq1aw" : {
+        "category" : "To Work",
+        "description" : "Lunch",
+        "duration" : 17911,
+        "durationInVehicle" : 1497,
+        "location" : "Work",
+        "timestamp" : 518725676,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmEAXoKIvJ3rqJDj7Yf" : {
+        "category" : "To Home",
+        "description" : "Lunch",
+        "duration" : 60831,
+        "durationInVehicle" : 535,
+        "location" : "Home",
+        "timestamp" : 518743587,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHna8IQxkjj9-NzK2g" : {
+        "category" : "Shopping",
+        "description" : "Lunch",
+        "duration" : 16,
+        "durationInVehicle" : 0,
+        "location" : "Shop",
+        "timestamp" : 518804418,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHndzi2gApvnAAQyml" : {
+        "category" : "Shopping",
+        "description" : "Grocery",
+        "duration" : 1795,
+        "durationInVehicle" : 1495,
+        "location" : "Shop",
+        "timestamp" : 518804434,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHuVDGp093C0m84Rox" : {
+        "category" : "To Home",
+        "description" : "Grocery",
+        "duration" : 75482,
+        "durationInVehicle" : 7364,
+        "location" : "Home",
+        "timestamp" : 518806229,
         "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
         "username" : "Xinwei Hu"
       }
@@ -1328,8 +1528,8 @@
   "events" : {
     "AVL Vehicle 2" : {
       "-Khd02jM4NTavQbdcb0o" : {
-        "duration" : 4720856,
-        "durationInVehicle" : 579405,
+        "duration" : 5008651,
+        "durationInVehicle" : 591098,
         "event" : "Check Out",
         "isInRange" : false,
         "timestamp" : 513808336,
@@ -1339,8 +1539,8 @@
     },
     "Ford HiL" : {
       "-KiGwgJKAAhBl1xfsFyG" : {
-        "duration" : 4039833,
-        "durationInVehicle" : 1118249,
+        "duration" : 4242071,
+        "durationInVehicle" : 1219292,
         "event" : "Check Out",
         "isInRange" : true,
         "timestamp" : 514495058,
@@ -1350,8 +1550,8 @@
     },
     "Talus' Car" : {
       "-KiGy_L4CmZ3Iw-xXOC4" : {
-        "duration" : 4034250,
-        "durationInVehicle" : 497087,
+        "duration" : 4383112,
+        "durationInVehicle" : 520878,
         "event" : "Check Out",
         "isInRange" : true,
         "timestamp" : 514495554,
@@ -1490,10 +1690,26 @@
         "username" : "Xinwei Hu"
       },
       "-KlUSYS6-bDmVh1MDCs3" : {
-        "duration" : 610947,
-        "durationInVehicle" : 432801,
+        "duration" : 765819,
+        "durationInVehicle" : 441610,
         "event" : "Check Out",
         "timestamp" : 517943002,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC5vD4GUKXt1e_GUkx" : {
+        "duration" : 76,
+        "durationInVehicle" : 0,
+        "event" : "Check In",
+        "timestamp" : 518708821,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC6Cc0cTZKvc2m-fPH" : {
+        "duration" : 172814,
+        "durationInVehicle" : 12454,
+        "event" : "Check Out",
+        "timestamp" : 518708897,
         "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
         "username" : "Xinwei Hu"
       }
@@ -3759,6 +3975,237 @@
         "entryID" : "-Km1OHeJMFPiAc3DsQQE",
         "entryType" : "Exit Vehicle",
         "timestamp" : 518529086,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-Km3N5o0qVVQSVDBcksG" : {
+        "entryID" : "-Km3N5o0qVVQSVDBcksG",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518562330,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-Km3NOOTpns59FIwXmuj" : {
+        "entryID" : "-Km3NOOTpns59FIwXmuj",
+        "entryType" : "Activity",
+        "timestamp" : 518562407,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-Km3YLNENqkcYpjzZl_d" : {
+        "entryID" : "-Km3YLNENqkcYpjzZl_d",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518565277,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-Km6OCohL7-Y0am11Hfa" : {
+        "entryID" : "-Km6OCohL7-Y0am11Hfa",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518612953,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-Km6ODuqLJ9FWjxu5L_f" : {
+        "entryID" : "-Km6ODuqLJ9FWjxu5L_f",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518612956,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-Km6OLa9MozL3zy-Ae_P" : {
+        "entryID" : "-Km6OLa9MozL3zy-Ae_P",
+        "entryType" : "Activity",
+        "timestamp" : 518612989,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-Km6TZDthM2mBeIyw3ta" : {
+        "entryID" : "-Km6TZDthM2mBeIyw3ta",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518614355,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmCpG-_p2E-_FCC-OKi" : {
+        "entryID" : "-KmCpG-_p2E-_FCC-OKi",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518720969,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmDguwql7YPF2f2hC45" : {
+        "entryID" : "-KmDguwql7YPF2f2hC45",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518735559,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmDqoZYXtAz2LG9QgSX" : {
+        "entryID" : "-KmDqoZYXtAz2LG9QgSX",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518738154,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmHHKJvsWqzcsCY1DOu" : {
+        "entryID" : "-KmHHKJvsWqzcsCY1DOu",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518795698,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmHHedEMbNflecBr3XS" : {
+        "entryID" : "-KmHHedEMbNflecBr3XS",
+        "entryType" : "Activity",
+        "timestamp" : 518795785,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmHJYPOqiL3epyFWWeq" : {
+        "entryID" : "-KmHJYPOqiL3epyFWWeq",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518796280,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmHL-w5lW7gv8QSORof" : {
+        "entryID" : "-KmHL-w5lW7gv8QSORof",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518796663,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmHLHKFecWrkb5ehRWh" : {
+        "entryID" : "-KmHLHKFecWrkb5ehRWh",
+        "entryType" : "Activity",
+        "timestamp" : 518796734,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmHN-COJCLvG3QuDu1q" : {
+        "entryID" : "-KmHN-COJCLvG3QuDu1q",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518797184,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmH_r3pnwvHLfoedO70" : {
+        "entryID" : "-KmH_r3pnwvHLfoedO70",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518800817,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmH_vTj6Zt0R75yaw8C" : {
+        "entryID" : "-KmH_vTj6Zt0R75yaw8C",
+        "entryType" : "Activity",
+        "timestamp" : 518800835,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmHc2BcIwLd5tUParRZ" : {
+        "entryID" : "-KmHc2BcIwLd5tUParRZ",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518801391,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmI3phLHj_eRqFh9f2m" : {
+        "entryID" : "-KmI3phLHj_eRqFh9f2m",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518808938,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmI3x3o-o0DEVOO-DcC" : {
+        "entryID" : "-KmI3x3o-o0DEVOO-DcC",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518808968,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmI4-sxUhpJk8mnp_NP" : {
+        "entryID" : "-KmI4-sxUhpJk8mnp_NP",
+        "entryType" : "Activity",
+        "timestamp" : 518808984,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmI7iTIYJi0wL-FZ94z" : {
+        "entryID" : "-KmI7iTIYJi0wL-FZ94z",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518809957,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmIKcieWRAYJs0SlKdv" : {
+        "entryID" : "-KmIKcieWRAYJs0SlKdv",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518813341,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmIPqsZpedRNrbqGlu4" : {
+        "entryID" : "-KmIPqsZpedRNrbqGlu4",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518814710,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmIVTuqMkrydiRydRL2" : {
+        "entryID" : "-KmIVTuqMkrydiRydRL2",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518816184,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmIVXd4YDaRN9Hh0M_s" : {
+        "entryID" : "-KmIVXd4YDaRN9Hh0M_s",
+        "entryType" : "Activity",
+        "timestamp" : 518816200,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmIWDswsZyzbNXiiDrp" : {
+        "entryID" : "-KmIWDswsZyzbNXiiDrp",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518816381,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmIWEsY-KJzQmkFiI99" : {
+        "entryID" : "-KmIWEsY-KJzQmkFiI99",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518816384,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmIWY7jbB7IKMnBB8BB" : {
+        "entryID" : "-KmIWY7jbB7IKMnBB8BB",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518816464,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmIWZ3Q7pGNHp5V2Fhi" : {
+        "entryID" : "-KmIWZ3Q7pGNHp5V2Fhi",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518816467,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmIY6zscANY867vK3vr" : {
+        "entryID" : "-KmIY6zscANY867vK3vr",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518816877,
+        "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
+        "username" : "Nilufar"
+      },
+      "-KmIY88cgt2FaKVwnrvH" : {
+        "entryID" : "-KmIY88cgt2FaKVwnrvH",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518816881,
         "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
         "username" : "Nilufar"
       }
@@ -13808,6 +14255,1308 @@
         "timestamp" : 518534758,
         "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
         "username" : "Paul"
+      },
+      "-Km7HWdVFCxDgPGo9J3f" : {
+        "entryID" : "-Km7HWdVFCxDgPGo9J3f",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518627974,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7HXQ1x-N-R_3LMteZ" : {
+        "entryID" : "-Km7HXQ1x-N-R_3LMteZ",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518627977,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7Hdakeuct6joCBIRY" : {
+        "entryID" : "-Km7Hdakeuct6joCBIRY",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518628009,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7Hf4y9_93sPpKHzS8" : {
+        "entryID" : "-Km7Hf4y9_93sPpKHzS8",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518628014,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7Hx9BeUbAXvzwlmLY" : {
+        "entryID" : "-Km7Hx9BeUbAXvzwlmLY",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518628088,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7I1mkpG2xEy7GXFPb" : {
+        "entryID" : "-Km7I1mkpG2xEy7GXFPb",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518628112,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7JS7xAtiAT2c0rl35" : {
+        "entryID" : "-Km7JS7xAtiAT2c0rl35",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518628482,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7JU1NL5Sjj04dksmK" : {
+        "entryID" : "-Km7JU1NL5Sjj04dksmK",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518628490,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7LGv5P8cl5hpfWyGX" : {
+        "entryID" : "-Km7LGv5P8cl5hpfWyGX",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518628960,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7LPK8L4c2rniSyKHl" : {
+        "entryID" : "-Km7LPK8L4c2rniSyKHl",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518628995,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7LX66_VIo5k23MT2h" : {
+        "entryID" : "-Km7LX66_VIo5k23MT2h",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518629027,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7Lc9PKRd6p6jqxlhM" : {
+        "entryID" : "-Km7Lc9PKRd6p6jqxlhM",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518629051,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7V3ZaBSn2-aAqZuUf" : {
+        "entryID" : "-Km7V3ZaBSn2-aAqZuUf",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518631527,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7V5DQgWbcAbHpAbtY" : {
+        "entryID" : "-Km7V5DQgWbcAbHpAbtY",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518631534,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7W0eRwRSbCPzcilQk" : {
+        "entryID" : "-Km7W0eRwRSbCPzcilQk",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518631777,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7ln48clwGZBH6wShE" : {
+        "entryID" : "-Km7ln48clwGZBH6wShE",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518636174,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7m4KjM1ECThOf9SfM" : {
+        "entryID" : "-Km7m4KjM1ECThOf9SfM",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518636248,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7mLF8WQXtHZuti6Si" : {
+        "entryID" : "-Km7mLF8WQXtHZuti6Si",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518636318,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7mk4je2cRgCyznL08" : {
+        "entryID" : "-Km7mk4je2cRgCyznL08",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518636424,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7n1xlLkfpYaaqrqIL" : {
+        "entryID" : "-Km7n1xlLkfpYaaqrqIL",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518636501,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7pBnf8vyIPosoWVh5" : {
+        "entryID" : "-Km7pBnf8vyIPosoWVh5",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518637065,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7pIlC_ZHF0AymKTD3" : {
+        "entryID" : "-Km7pIlC_ZHF0AymKTD3",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518637094,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7pzQb7c0lv-FnRj7P" : {
+        "entryID" : "-Km7pzQb7c0lv-FnRj7P",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518637273,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7q-MiW3mMUvkUVtKc" : {
+        "entryID" : "-Km7q-MiW3mMUvkUVtKc",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518637277,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7qCu50LnFrVX4Btie" : {
+        "entryID" : "-Km7qCu50LnFrVX4Btie",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518637332,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7qJcT5Q-OCLn4kCzB" : {
+        "entryID" : "-Km7qJcT5Q-OCLn4kCzB",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518637359,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7sBu4GRU-W7eMJzHY" : {
+        "entryID" : "-Km7sBu4GRU-W7eMJzHY",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518637852,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7sG1tLk2BaGvNG5lz" : {
+        "entryID" : "-Km7sG1tLk2BaGvNG5lz",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518637869,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7sYdyGtckqhxRgsvf" : {
+        "entryID" : "-Km7sYdyGtckqhxRgsvf",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518637945,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7sinFreUTdlvBLgv2" : {
+        "entryID" : "-Km7sinFreUTdlvBLgv2",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518637991,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7xkcoBDox6bFUAEd1" : {
+        "entryID" : "-Km7xkcoBDox6bFUAEd1",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518639309,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7xrD5ZSsj7auhuxOa" : {
+        "entryID" : "-Km7xrD5ZSsj7auhuxOa",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518639336,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7yAnCp86Htrzp7tOI" : {
+        "entryID" : "-Km7yAnCp86Htrzp7tOI",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518639417,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km7yJ5lmOtKU_Cis-SL" : {
+        "entryID" : "-Km7yJ5lmOtKU_Cis-SL",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518639450,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km83yV_09ln_VmyGDVf" : {
+        "entryID" : "-Km83yV_09ln_VmyGDVf",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518641200,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km844LQLIAjsO4c0drl" : {
+        "entryID" : "-Km844LQLIAjsO4c0drl",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518641228,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km84SyK21nQfNuy_aEN" : {
+        "entryID" : "-Km84SyK21nQfNuy_aEN",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518641329,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km84ycQ3kmNM39ysTk8" : {
+        "entryID" : "-Km84ycQ3kmNM39ysTk8",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518641463,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km86Yu4ucOJLp_D1xDH" : {
+        "entryID" : "-Km86Yu4ucOJLp_D1xDH",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518641878,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km86_gzoIC8hpGLAZRq" : {
+        "entryID" : "-Km86_gzoIC8hpGLAZRq",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518641885,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km88x7c9MEswCiV55DG" : {
+        "entryID" : "-Km88x7c9MEswCiV55DG",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518642506,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km88zHpR6ezb_Lm7nau" : {
+        "entryID" : "-Km88zHpR6ezb_Lm7nau",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518642514,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8Ax6GCSxMTDvrUAKl" : {
+        "entryID" : "-Km8Ax6GCSxMTDvrUAKl",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518643030,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8B17X5Cwc_aqViggz" : {
+        "entryID" : "-Km8B17X5Cwc_aqViggz",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518643050,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8Bn_Zsygp-APCyBW0" : {
+        "entryID" : "-Km8Bn_Zsygp-APCyBW0",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518643253,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8BxJ9eGx0DPo7odKn" : {
+        "entryID" : "-Km8BxJ9eGx0DPo7odKn",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518643293,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8IBBP1pZqTS4UzQo6" : {
+        "entryID" : "-Km8IBBP1pZqTS4UzQo6",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518644926,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8IIU2fepTEHdjJmBI" : {
+        "entryID" : "-Km8IIU2fepTEHdjJmBI",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518644956,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8JC_ZIMx3zy5Zo56v" : {
+        "entryID" : "-Km8JC_ZIMx3zy5Zo56v",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518645194,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8JNJ7MX09W027a-T6" : {
+        "entryID" : "-Km8JNJ7MX09W027a-T6",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518645238,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8J_9dHvLl4KT_rTL2" : {
+        "entryID" : "-Km8J_9dHvLl4KT_rTL2",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518645291,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8JktdZzOuWtl-_bRv" : {
+        "entryID" : "-Km8JktdZzOuWtl-_bRv",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518645339,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8Lvc5b1ixBSiEID8y" : {
+        "entryID" : "-Km8Lvc5b1ixBSiEID8y",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518645907,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8M388rn9jrdx775Bv" : {
+        "entryID" : "-Km8M388rn9jrdx775Bv",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518645942,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8MWjZsnBGzCW1NLf9" : {
+        "entryID" : "-Km8MWjZsnBGzCW1NLf9",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518646063,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8MXCbAY-I9YhIqc7X" : {
+        "entryID" : "-Km8MXCbAY-I9YhIqc7X",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518646063,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8NJlSLfYoqbeFX60I" : {
+        "entryID" : "-Km8NJlSLfYoqbeFX60I",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518646271,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8NM7NpjGI20K8tbKP" : {
+        "entryID" : "-Km8NM7NpjGI20K8tbKP",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518646274,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8P24KWTRyNqiIUKR5" : {
+        "entryID" : "-Km8P24KWTRyNqiIUKR5",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518646723,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8P7amU_CKvwtffJTq" : {
+        "entryID" : "-Km8P7amU_CKvwtffJTq",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518646746,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8PvzTDcvuS88dfHXS" : {
+        "entryID" : "-Km8PvzTDcvuS88dfHXS",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518646957,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-Km8Q3q4gw9UvC_84ps3" : {
+        "entryID" : "-Km8Q3q4gw9UvC_84ps3",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518646993,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBnflXqxPLWH1_E8Cj" : {
+        "entryID" : "-KmBnflXqxPLWH1_E8Cj",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518703775,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBnhD2Y4gKr7r8LMQZ" : {
+        "entryID" : "-KmBnhD2Y4gKr7r8LMQZ",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518703780,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBntZOL_sy1L2WIXKX" : {
+        "entryID" : "-KmBntZOL_sy1L2WIXKX",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518703833,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBo1TVZoVHSSJPhsC1" : {
+        "entryID" : "-KmBo1TVZoVHSSJPhsC1",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518703870,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBoE1QigH_rKgQDKgi" : {
+        "entryID" : "-KmBoE1QigH_rKgQDKgi",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518703922,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBoPPCACee8AIR4anh" : {
+        "entryID" : "-KmBoPPCACee8AIR4anh",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518703968,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBpvSDclJ_W5qUt0nh" : {
+        "entryID" : "-KmBpvSDclJ_W5qUt0nh",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518704365,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBqGx8YLSyCq8yZql_" : {
+        "entryID" : "-KmBqGx8YLSyCq8yZql_",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518704456,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBqim2-ugSkTvcbXYK" : {
+        "entryID" : "-KmBqim2-ugSkTvcbXYK",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518704576,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBqjbdQndP10Bvd7tj" : {
+        "entryID" : "-KmBqjbdQndP10Bvd7tj",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518704579,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBs6-Dlkt53vs71xBg" : {
+        "entryID" : "-KmBs6-Dlkt53vs71xBg",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518704936,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBs9GYYwEmmAdqlHqt" : {
+        "entryID" : "-KmBs9GYYwEmmAdqlHqt",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518704951,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBsHvY-OetCqpG_T6S" : {
+        "entryID" : "-KmBsHvY-OetCqpG_T6S",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518704985,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBsQpnfLuEm3w4Xt1R" : {
+        "entryID" : "-KmBsQpnfLuEm3w4Xt1R",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518705023,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBuPd7LWyFbRkIFfHW" : {
+        "entryID" : "-KmBuPd7LWyFbRkIFfHW",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518705542,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBuRBD9bXnT869zjle" : {
+        "entryID" : "-KmBuRBD9bXnT869zjle",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518705548,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBv1eIovqMrzUbKwdK" : {
+        "entryID" : "-KmBv1eIovqMrzUbKwdK",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518705703,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBvOLYZ4tnkxtG8nKo" : {
+        "entryID" : "-KmBvOLYZ4tnkxtG8nKo",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518705799,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBvvKP0_kwa9aUjIlI" : {
+        "entryID" : "-KmBvvKP0_kwa9aUjIlI",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518705935,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBwApN2JyaGLdM9k5M" : {
+        "entryID" : "-KmBwApN2JyaGLdM9k5M",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518706004,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBy-6-gy29KJPF2my7" : {
+        "entryID" : "-KmBy-6-gy29KJPF2my7",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518706482,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBy07vJUjVPSkETs3E" : {
+        "entryID" : "-KmBy07vJUjVPSkETs3E",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518706486,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmBzwTDVkAwA67WXHC_" : {
+        "entryID" : "-KmBzwTDVkAwA67WXHC_",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518706990,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmC-9KRQJdDWAvVygDF" : {
+        "entryID" : "-KmC-9KRQJdDWAvVygDF",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518707048,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmC0J9Z1j6HfMGJ-xMt" : {
+        "entryID" : "-KmC0J9Z1j6HfMGJ-xMt",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518707350,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmC0LVBp-KJFX4heeaS" : {
+        "entryID" : "-KmC0LVBp-KJFX4heeaS",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518707359,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmC0e7CMyX0ksDvCAVv" : {
+        "entryID" : "-KmC0e7CMyX0ksDvCAVv",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518707440,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmC0f7Oos_EGWqWUmbf" : {
+        "entryID" : "-KmC0f7Oos_EGWqWUmbf",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518707444,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmC16TKl0Fud8u4wv7_" : {
+        "entryID" : "-KmC16TKl0Fud8u4wv7_",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518707560,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmC18JuBVKDyaPWYFPD" : {
+        "entryID" : "-KmC18JuBVKDyaPWYFPD",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518707567,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmC56H0Shwz5YqHJqjP" : {
+        "entryID" : "-KmC56H0Shwz5YqHJqjP",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518708609,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCGTJqVIzlVDK3q1xT" : {
+        "entryID" : "-KmCGTJqVIzlVDK3q1xT",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518711586,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCGV1XC1c2CQWDFTUn" : {
+        "entryID" : "-KmCGV1XC1c2CQWDFTUn",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518711592,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCIELNG78UqRPZE1Dq" : {
+        "entryID" : "-KmCIELNG78UqRPZE1Dq",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518712049,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCIFwvm0hJfUDNHL1L" : {
+        "entryID" : "-KmCIFwvm0hJfUDNHL1L",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518712050,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCLbzk_T-DPGmGXExn" : {
+        "entryID" : "-KmCLbzk_T-DPGmGXExn",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518712936,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCLgHhmHvN46egH2VG" : {
+        "entryID" : "-KmCLgHhmHvN46egH2VG",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518712954,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCPsueE36jbGkUjWf_" : {
+        "entryID" : "-KmCPsueE36jbGkUjWf_",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518714054,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCPuhICpmwX5XGe5An" : {
+        "entryID" : "-KmCPuhICpmwX5XGe5An",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518714060,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCRIuekJZQXwho0TTO" : {
+        "entryID" : "-KmCRIuekJZQXwho0TTO",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518714423,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCRNzlmF_NuJ70w4EN" : {
+        "entryID" : "-KmCRNzlmF_NuJ70w4EN",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518714443,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCRvAMUzb5wbqp4t8Y" : {
+        "entryID" : "-KmCRvAMUzb5wbqp4t8Y",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518714583,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCW7O9ATrLTzRSMH2q" : {
+        "entryID" : "-KmCW7O9ATrLTzRSMH2q",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518714618,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCW8wbDyAyTP9yMXTR" : {
+        "entryID" : "-KmCW8wbDyAyTP9yMXTR",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518715695,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCWAGp_Lm-xVN50K_B" : {
+        "entryID" : "-KmCWAGp_Lm-xVN50K_B",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518715698,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCZWEZXAoTAzL2lcuR" : {
+        "entryID" : "-KmCZWEZXAoTAzL2lcuR",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518716578,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCZY9EIfcvGUpi0ylB" : {
+        "entryID" : "-KmCZY9EIfcvGUpi0ylB",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518716579,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCcHjBbk1Z4Xr_uPcc" : {
+        "entryID" : "-KmCcHjBbk1Z4Xr_uPcc",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518717567,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCcIGuBJ0D2EZN_NG4" : {
+        "entryID" : "-KmCcIGuBJ0D2EZN_NG4",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518717567,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCeGJUe_zIrFhK-Fqs" : {
+        "entryID" : "-KmCeGJUe_zIrFhK-Fqs",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518718054,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCeHmbkkLtP2FbE12a" : {
+        "entryID" : "-KmCeHmbkkLtP2FbE12a",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518718088,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCfWD0tzbkeH0p83iE" : {
+        "entryID" : "-KmCfWD0tzbkeH0p83iE",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518718412,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCfc0WxMfQ6nK0iTOZ" : {
+        "entryID" : "-KmCfc0WxMfQ6nK0iTOZ",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518718440,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmClOV1lOsF7g90Rcsy" : {
+        "entryID" : "-KmClOV1lOsF7g90Rcsy",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518719949,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCmIwmMGERiDgp6kPj" : {
+        "entryID" : "-KmCmIwmMGERiDgp6kPj",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518719956,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCmKSvsvEUpCMPVFTf" : {
+        "entryID" : "-KmCmKSvsvEUpCMPVFTf",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518720195,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCmyMl1IQkzmOfKMfd" : {
+        "entryID" : "-KmCmyMl1IQkzmOfKMfd",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518720202,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCn-AZeu8WAdkchCyi" : {
+        "entryID" : "-KmCn-AZeu8WAdkchCyi",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518720374,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCnRQRHaNizyQPAypl" : {
+        "entryID" : "-KmCnRQRHaNizyQPAypl",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518720490,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCoWD6WkAw3pKkzAAc" : {
+        "entryID" : "-KmCoWD6WkAw3pKkzAAc",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518720771,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCoXfssQHileVobvXI" : {
+        "entryID" : "-KmCoXfssQHileVobvXI",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518720774,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCq_LK7WR8gQNls-B9" : {
+        "entryID" : "-KmCq_LK7WR8gQNls-B9",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518721242,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCrY42Okber3en3oEB" : {
+        "entryID" : "-KmCrY42Okber3en3oEB",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518721318,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCrZnGpL71Rdncbm2r" : {
+        "entryID" : "-KmCrZnGpL71Rdncbm2r",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518721568,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCs_h25SvExsk8P05R" : {
+        "entryID" : "-KmCs_h25SvExsk8P05R",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518721568,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCtMtmOaKo_3NjPAQD" : {
+        "entryID" : "-KmCtMtmOaKo_3NjPAQD",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518721841,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCtOR3nnJDuanmqJ84" : {
+        "entryID" : "-KmCtOR3nnJDuanmqJ84",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518721925,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCvoYoYvpHyMlr7zAZ" : {
+        "entryID" : "-KmCvoYoYvpHyMlr7zAZ",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518722047,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCwoymOSt7LS4qFkUW" : {
+        "entryID" : "-KmCwoymOSt7LS4qFkUW",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518722049,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCxQIj7PVOQFV93eGE" : {
+        "entryID" : "-KmCxQIj7PVOQFV93eGE",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518722690,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCxhpeZ4g4Rt6PthaC" : {
+        "entryID" : "-KmCxhpeZ4g4Rt6PthaC",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518722690,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCxjiIeYsW43XPqy7W" : {
+        "entryID" : "-KmCxjiIeYsW43XPqy7W",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518722913,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCxmIvBF3oCiDBYeC2" : {
+        "entryID" : "-KmCxmIvBF3oCiDBYeC2",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518722914,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCzPLWIdR0MTSaUrwh" : {
+        "entryID" : "-KmCzPLWIdR0MTSaUrwh",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518723187,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmCzPLbclFtfZUrN8bn" : {
+        "entryID" : "-KmCzPLbclFtfZUrN8bn",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518723187,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmD-kXzup0hUPIsEDSd" : {
+        "entryID" : "-KmD-kXzup0hUPIsEDSd",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518723621,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmD-mUjC0wVoHRZWoqH" : {
+        "entryID" : "-KmD-mUjC0wVoHRZWoqH",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518723621,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmD0qZ5CXFfAler1p2r" : {
+        "entryID" : "-KmD0qZ5CXFfAler1p2r",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518724268,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmD0qZ8tWuEoogHvO77" : {
+        "entryID" : "-KmD0qZ8tWuEoogHvO77",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518724269,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmD3j1FjIgNC7n54d6a" : {
+        "entryID" : "-KmD3j1FjIgNC7n54d6a",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518725024,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmD40qZLYE9uAtJw_qb" : {
+        "entryID" : "-KmD40qZLYE9uAtJw_qb",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518725101,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmD8U82PJnrqwKrNIFf" : {
+        "entryID" : "-KmD8U82PJnrqwKrNIFf",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518726269,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmD8d5yRduzIU6gvIYa" : {
+        "entryID" : "-KmD8d5yRduzIU6gvIYa",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518726310,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmD8rP1PXExqCD7BM-V" : {
+        "entryID" : "-KmD8rP1PXExqCD7BM-V",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518726369,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmD8sV7ORAsEtUO2gJx" : {
+        "entryID" : "-KmD8sV7ORAsEtUO2gJx",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518726374,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDAzj1buX9tdTS45DD" : {
+        "entryID" : "-KmDAzj1buX9tdTS45DD",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518726928,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDB2vihtI2v1jEU_YE" : {
+        "entryID" : "-KmDB2vihtI2v1jEU_YE",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518726945,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDBUbGkji5GUVeahHb" : {
+        "entryID" : "-KmDBUbGkji5GUVeahHb",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518727057,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDBnAvs543DmUolO-C" : {
+        "entryID" : "-KmDBnAvs543DmUolO-C",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518727138,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDCDEhtfE-9REu5qac" : {
+        "entryID" : "-KmDCDEhtfE-9REu5qac",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518727249,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDCF8QQ-umf5_ZbUsB" : {
+        "entryID" : "-KmDCF8QQ-umf5_ZbUsB",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518727257,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDFXxJ6UT0WyCCI0sL" : {
+        "entryID" : "-KmDFXxJ6UT0WyCCI0sL",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518728119,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDFkPzniCrT6zgGNcE" : {
+        "entryID" : "-KmDFkPzniCrT6zgGNcE",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518728168,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDGVb-yXvsyS0xLUSd" : {
+        "entryID" : "-KmDGVb-yXvsyS0xLUSd",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518728373,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDGWTeCalsJSMc56n7" : {
+        "entryID" : "-KmDGWTeCalsJSMc56n7",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518728374,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDQ9MXJ_rOXKhGArRZ" : {
+        "entryID" : "-KmDQ9MXJ_rOXKhGArRZ",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518730903,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDQCHmufVXAiy66MV6" : {
+        "entryID" : "-KmDQCHmufVXAiy66MV6",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518730915,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDRMGb2kGWzqcP2h1o" : {
+        "entryID" : "-KmDRMGb2kGWzqcP2h1o",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518731218,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDRNOnZCcxrGgbGyhO" : {
+        "entryID" : "-KmDRNOnZCcxrGgbGyhO",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518731222,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDRkF0dJG18AR7eXGl" : {
+        "entryID" : "-KmDRkF0dJG18AR7eXGl",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518731318,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDRmA_QS8ThPmzq2I-" : {
+        "entryID" : "-KmDRmA_QS8ThPmzq2I-",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518731326,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDTz3lR_06d6_UIocu" : {
+        "entryID" : "-KmDTz3lR_06d6_UIocu",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518731905,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDU-KTY8wAp_zUUQE-" : {
+        "entryID" : "-KmDU-KTY8wAp_zUUQE-",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518731910,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDUfq4NjWGM9e3uYs-" : {
+        "entryID" : "-KmDUfq4NjWGM9e3uYs-",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518732088,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDUk4zAof9ZqxDZlti" : {
+        "entryID" : "-KmDUk4zAof9ZqxDZlti",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518732104,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDXtzpJkas_i1tc1GR" : {
+        "entryID" : "-KmDXtzpJkas_i1tc1GR",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518732929,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDXwSyZFieNyXQ7LS-" : {
+        "entryID" : "-KmDXwSyZFieNyXQ7LS-",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518732935,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDY6ra6uiUgFYb-pk1" : {
+        "entryID" : "-KmDY6ra6uiUgFYb-pk1",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518732987,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDYaOJbIZ0e6xoJ5u-" : {
+        "entryID" : "-KmDYaOJbIZ0e6xoJ5u-",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518733111,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDah57uiAOSV6KXtNw" : {
+        "entryID" : "-KmDah57uiAOSV6KXtNw",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518733926,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDal-rhk4KP6RNra-0" : {
+        "entryID" : "-KmDal-rhk4KP6RNra-0",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518733944,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDbGfVb5t_P7WX0_e3" : {
+        "entryID" : "-KmDbGfVb5t_P7WX0_e3",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518734078,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDbQA_ZNdiBcPfBFMq" : {
+        "entryID" : "-KmDbQA_ZNdiBcPfBFMq",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518734117,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDcc4LMCpbgXB_VTnF" : {
+        "entryID" : "-KmDcc4LMCpbgXB_VTnF",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518734432,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDcjdCTsA0f8BnF0ZU" : {
+        "entryID" : "-KmDcjdCTsA0f8BnF0ZU",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518734463,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDgo2l4-6AldnYNjGm" : {
+        "entryID" : "-KmDgo2l4-6AldnYNjGm",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518735529,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDhCzaAaOiBK2jVMKA" : {
+        "entryID" : "-KmDhCzaAaOiBK2jVMKA",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518735636,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDj-_6WGMJzkFhGfFG" : {
+        "entryID" : "-KmDj-_6WGMJzkFhGfFG",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518736099,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDjLO_CWcLQnnna0k1" : {
+        "entryID" : "-KmDjLO_CWcLQnnna0k1",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518736194,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDjsS3-u2JQ7PfRK6J" : {
+        "entryID" : "-KmDjsS3-u2JQ7PfRK6J",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518736329,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDlCw55WkLJpIAu6d2" : {
+        "entryID" : "-KmDlCw55WkLJpIAu6d2",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518736332,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDlF4WWBUqbru79Er5" : {
+        "entryID" : "-KmDlF4WWBUqbru79Er5",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518736690,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDlLTgSt-0JEiGEmF-" : {
+        "entryID" : "-KmDlLTgSt-0JEiGEmF-",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518736719,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
+      },
+      "-KmDmQwG38vJybEu_8o0" : {
+        "entryID" : "-KmDmQwG38vJybEu_8o0",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518736996,
+        "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
+        "username" : "Paul"
       }
     },
     "Talus' Car" : {
@@ -16818,6 +18567,349 @@
         "entryID" : "-Km1R0wV_QBhjawUu4y9",
         "entryType" : "Exit Vehicle",
         "timestamp" : 518529804,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km3IDhL0yr_C5vAwkF3" : {
+        "entryID" : "-Km3IDhL0yr_C5vAwkF3",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518561052,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km3OTXA8eLofcs1E6DN" : {
+        "entryID" : "-Km3OTXA8eLofcs1E6DN",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518562689,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km3eabRI6Ub2yjSrCLp" : {
+        "entryID" : "-Km3eabRI6Ub2yjSrCLp",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518567177,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km3mTT1AsrPLM1Nb0y4" : {
+        "entryID" : "-Km3mTT1AsrPLM1Nb0y4",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518569243,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km6ReW9q5vjVjyQuclm" : {
+        "entryID" : "-Km6ReW9q5vjVjyQuclm",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518613856,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km6_AkPElJlnbaLWYVe" : {
+        "entryID" : "-Km6_AkPElJlnbaLWYVe",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518616090,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km8cTQ6Rhn4ErY4qHTY" : {
+        "entryID" : "-Km8cTQ6Rhn4ErY4qHTY",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518650507,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km8m01T8JbHiYIhgdyn" : {
+        "entryID" : "-Km8m01T8JbHiYIhgdyn",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518653008,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km8tpEycvmwHMMeiD4m" : {
+        "entryID" : "-Km8tpEycvmwHMMeiD4m",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518655057,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km8u_LuRANUo18l1kSg" : {
+        "entryID" : "-Km8u_LuRANUo18l1kSg",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518655252,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km9EgXpcAKfl0Km1kXC" : {
+        "entryID" : "-Km9EgXpcAKfl0Km1kXC",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518660786,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km9HmxEPOo8QSeY0drp" : {
+        "entryID" : "-Km9HmxEPOo8QSeY0drp",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518661601,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km9LKB4NcuW_0TpJqoj" : {
+        "entryID" : "-Km9LKB4NcuW_0TpJqoj",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518662525,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km9LKsdNriMme4bV-lI" : {
+        "entryID" : "-Km9LKsdNriMme4bV-lI",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518662525,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km9WRnImoAMhhzVGXVT" : {
+        "entryID" : "-Km9WRnImoAMhhzVGXVT",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518665442,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-Km9cDjB9jQCGGsXvXRn" : {
+        "entryID" : "-Km9cDjB9jQCGGsXvXRn",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518667219,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmCfe4P_DUS0S6NjnUX" : {
+        "entryID" : "-KmCfe4P_DUS0S6NjnUX",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518718449,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmCfe4QVupzZig9sSYr" : {
+        "entryID" : "-KmCfe4QVupzZig9sSYr",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518718451,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmCfukVMRxEk00TRE5S" : {
+        "entryID" : "-KmCfukVMRxEk00TRE5S",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518718519,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmDVJ_g_6EscZUOs7FQ" : {
+        "entryID" : "-KmDVJ_g_6EscZUOs7FQ",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518732256,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmDVSlR68vrxAqCjAAd" : {
+        "entryID" : "-KmDVSlR68vrxAqCjAAd",
+        "entryType" : "Activity",
+        "timestamp" : 518732294,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmDevB1zjkmFJqTjtVh" : {
+        "entryID" : "-KmDevB1zjkmFJqTjtVh",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518735036,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmDgazytCh1tHjEe0US" : {
+        "entryID" : "-KmDgazytCh1tHjEe0US",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518735477,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmDoe4AseUpazvuWS3Q" : {
+        "entryID" : "-KmDoe4AseUpazvuWS3Q",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518737586,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmDoel-_n3yX5xCEG9N" : {
+        "entryID" : "-KmDoel-_n3yX5xCEG9N",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518737587,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmDryOLOYa1RZmsR98_" : {
+        "entryID" : "-KmDryOLOYa1RZmsR98_",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518738456,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmDs7Q-YXFdT73yaC1_" : {
+        "entryID" : "-KmDs7Q-YXFdT73yaC1_",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518738498,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmDxq1bPjDvdIVknZVX" : {
+        "entryID" : "-KmDxq1bPjDvdIVknZVX",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518739995,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmE3-r_YbF8FXkhmw6a" : {
+        "entryID" : "-KmE3-r_YbF8FXkhmw6a",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518741612,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmEl-Q5xyc6uvsrPO5t" : {
+        "entryID" : "-KmEl-Q5xyc6uvsrPO5t",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518753406,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmEqhVNmc7Rc7kkw40K" : {
+        "entryID" : "-KmEqhVNmc7Rc7kkw40K",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518754903,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmH73K7j-B8a0vMsvMo" : {
+        "entryID" : "-KmH73K7j-B8a0vMsvMo",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518793006,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmH8lxrO3Nnu4kLb5f6" : {
+        "entryID" : "-KmH8lxrO3Nnu4kLb5f6",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518793455,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmH9CiF_v1bnzM-MCpS" : {
+        "entryID" : "-KmH9CiF_v1bnzM-MCpS",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518793569,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmHAXEOzkf4tUwbaZOS" : {
+        "entryID" : "-KmHAXEOzkf4tUwbaZOS",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518793916,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmHCeE14YHloI7NWi8N" : {
+        "entryID" : "-KmHCeE14YHloI7NWi8N",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518794471,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmHDPcy5xjFXlv8Stf2" : {
+        "entryID" : "-KmHDPcy5xjFXlv8Stf2",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518794670,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmHir3hMGwl6ibhiXkw" : {
+        "entryID" : "-KmHir3hMGwl6ibhiXkw",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518803175,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmHmPG8LQMNdmptrtDL" : {
+        "entryID" : "-KmHmPG8LQMNdmptrtDL",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518804106,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmIPAIbUz7oyF4rvpH_" : {
+        "entryID" : "-KmIPAIbUz7oyF4rvpH_",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518814530,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmIUgoUho7qG9nWb62-" : {
+        "entryID" : "-KmIUgoUho7qG9nWb62-",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518815979,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmIbbU3aTZ_DXtSr5Gc" : {
+        "entryID" : "-KmIbbU3aTZ_DXtSr5Gc",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518818054,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmIddzQEnGKRmQXFF0i" : {
+        "entryID" : "-KmIddzQEnGKRmQXFF0i",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518818587,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmIg7LWcs03RPyLkkFt" : {
+        "entryID" : "-KmIg7LWcs03RPyLkkFt",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518819237,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmIi6IMkIWIQfmet_sE" : {
+        "entryID" : "-KmIi6IMkIWIQfmet_sE",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518819755,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmLxvJbgyfvjow9objn" : {
+        "entryID" : "-KmLxvJbgyfvjow9objn",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518874232,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmMDjMH8hnO0RGryV7m" : {
+        "entryID" : "-KmMDjMH8hnO0RGryV7m",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518874235,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmMDl9p20ZuBAfJ8Yhg" : {
+        "entryID" : "-KmMDl9p20ZuBAfJ8Yhg",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518878643,
+        "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
+        "username" : "Talus"
+      },
+      "-KmMDqLCDkMDqkZ5Ftbq" : {
+        "entryID" : "-KmMDqLCDkMDqkZ5Ftbq",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518878666,
         "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
         "username" : "Talus"
       }
@@ -22841,6 +24933,1041 @@
         "timestamp" : 518553949,
         "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
         "username" : "Xinwei Hu"
+      },
+      "-Km2sc-l_y1a4-dO6WOl" : {
+        "entryID" : "-Km2sc-l_y1a4-dO6WOl",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518554078,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km33FnQwIjmgRECwRcd" : {
+        "entryID" : "-Km33FnQwIjmgRECwRcd",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518557125,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km33Y01SjhakjYme1dp" : {
+        "entryID" : "-Km33Y01SjhakjYme1dp",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518557203,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km33Y0RsYNk8i3R-dJE" : {
+        "entryID" : "-Km33Y0RsYNk8i3R-dJE",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518557203,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km369oY6XlQ2fPKLsyC" : {
+        "entryID" : "-Km369oY6XlQ2fPKLsyC",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518557890,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km36CQ44By0RjGlzbG7" : {
+        "entryID" : "-Km36CQ44By0RjGlzbG7",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518557901,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km36Hbn9BoYYHiCSn-T" : {
+        "entryID" : "-Km36Hbn9BoYYHiCSn-T",
+        "entryType" : "Activity",
+        "timestamp" : 518557922,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km37svehSChydWVWxeB" : {
+        "entryID" : "-Km37svehSChydWVWxeB",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518558341,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km37zDYTTHAaqihLb6u" : {
+        "entryID" : "-Km37zDYTTHAaqihLb6u",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518558367,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km38ERicGIMEiC3YU_A" : {
+        "entryID" : "-Km38ERicGIMEiC3YU_A",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518558433,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km38FoJEqUmqOg__r-Y" : {
+        "entryID" : "-Km38FoJEqUmqOg__r-Y",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518558439,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km38SUnEiFOuRNNyx2H" : {
+        "entryID" : "-Km38SUnEiFOuRNNyx2H",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518558491,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km38WRkDvFKXvAQ_-6L" : {
+        "entryID" : "-Km38WRkDvFKXvAQ_-6L",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518558507,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km39jW4yG3Jqz0Y-Tsg" : {
+        "entryID" : "-Km39jW4yG3Jqz0Y-Tsg",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518558827,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km39t7Oww6i9wPpfdii" : {
+        "entryID" : "-Km39t7Oww6i9wPpfdii",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518558866,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3A57ZygenTEFiyUhS" : {
+        "entryID" : "-Km3A57ZygenTEFiyUhS",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518558919,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3AO6KE6OnT_vxAcPY" : {
+        "entryID" : "-Km3AO6KE6OnT_vxAcPY",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518558997,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3AW92AzFT-hlfObA_" : {
+        "entryID" : "-Km3AW92AzFT-hlfObA_",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518559030,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3EXOkL__acnbXtk09" : {
+        "entryID" : "-Km3EXOkL__acnbXtk09",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518560084,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3F8thk6j-lL61KxcL" : {
+        "entryID" : "-Km3F8thk6j-lL61KxcL",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518560246,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3FBG_Sm7VhdHnbucu" : {
+        "entryID" : "-Km3FBG_Sm7VhdHnbucu",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518560255,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3FNu5Dtxu-03-8B2E" : {
+        "entryID" : "-Km3FNu5Dtxu-03-8B2E",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518560307,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3FPxZjhOhGUqPqlXN" : {
+        "entryID" : "-Km3FPxZjhOhGUqPqlXN",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518560315,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3Ff9cJCYcZ9Sn-E1n" : {
+        "entryID" : "-Km3Ff9cJCYcZ9Sn-E1n",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518560382,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3FrHd1zXQL55u4leD" : {
+        "entryID" : "-Km3FrHd1zXQL55u4leD",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518560431,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3Gudw8tUWMFfXsawi" : {
+        "entryID" : "-Km3Gudw8tUWMFfXsawi",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518560707,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3HHcaU0K01eD4AcMl" : {
+        "entryID" : "-Km3HHcaU0K01eD4AcMl",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518560805,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3HcxJE5uVeEY8asrp" : {
+        "entryID" : "-Km3HcxJE5uVeEY8asrp",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518560897,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3HroTrtCJDPcJLzge" : {
+        "entryID" : "-Km3HroTrtCJDPcJLzge",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518560957,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3HzKu-9cOajEAwAc4" : {
+        "entryID" : "-Km3HzKu-9cOajEAwAc4",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518560988,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3I1-gLJrB02YSvrpd" : {
+        "entryID" : "-Km3I1-gLJrB02YSvrpd",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518560999,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3IVr3FJLK-uWhZcwc" : {
+        "entryID" : "-Km3IVr3FJLK-uWhZcwc",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518561126,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3b-60F2_hUdL5OSMU" : {
+        "entryID" : "-Km3b-60F2_hUdL5OSMU",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518566029,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km3b-69DOMH6BkDa_3j" : {
+        "entryID" : "-Km3b-69DOMH6BkDa_3j",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518566233,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km43nY89ZmU3eGX1YT7" : {
+        "entryID" : "-Km43nY89ZmU3eGX1YT7",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518566240,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km43n_GeAuDG7AxAqwa" : {
+        "entryID" : "-Km43n_GeAuDG7AxAqwa",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518574048,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km4Cj51TPuP_fQubSpN" : {
+        "entryID" : "-Km4Cj51TPuP_fQubSpN",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518576386,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km4Cj53qw00s2NPE-fp" : {
+        "entryID" : "-Km4Cj53qw00s2NPE-fp",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518576389,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km4Dfr6L_BEmfr4rfGg" : {
+        "entryID" : "-Km4Dfr6L_BEmfr4rfGg",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518576638,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km6j7XYa8k4K_IG08nG" : {
+        "entryID" : "-Km6j7XYa8k4K_IG08nG",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518618698,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km6jS1QZatjl7Tk01WG" : {
+        "entryID" : "-Km6jS1QZatjl7Tk01WG",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518618782,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km6jUxOxmK9OOUWp75f" : {
+        "entryID" : "-Km6jUxOxmK9OOUWp75f",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518618794,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km6nnuxBNJIjDU2fdK3" : {
+        "entryID" : "-Km6nnuxBNJIjDU2fdK3",
+        "entryType" : "Activity",
+        "timestamp" : 518619925,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km6o6sm5I2CRGFhIgXn" : {
+        "entryID" : "-Km6o6sm5I2CRGFhIgXn",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518620006,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km7GR1Eg_EPwlk2lLqL" : {
+        "entryID" : "-Km7GR1Eg_EPwlk2lLqL",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518627691,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km7MqFR2-RAPXyJqOzQ" : {
+        "entryID" : "-Km7MqFR2-RAPXyJqOzQ",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518629371,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km7y0KueitPwzvlafKN" : {
+        "entryID" : "-Km7y0KueitPwzvlafKN",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518639376,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8AK9K7LYllKhPPn5J" : {
+        "entryID" : "-Km8AK9K7LYllKhPPn5J",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518642867,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8Aamf_ZVUdCQXZQx2" : {
+        "entryID" : "-Km8Aamf_ZVUdCQXZQx2",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518642940,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8dnedCgomuMvERvce" : {
+        "entryID" : "-Km8dnedCgomuMvERvce",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518650855,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8dp1Ed3OqvK461RjA" : {
+        "entryID" : "-Km8dp1Ed3OqvK461RjA",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518650862,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8e9HDV7-62dRaLtSk" : {
+        "entryID" : "-Km8e9HDV7-62dRaLtSk",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518650949,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8eWebKpzEAFf7Gy5e" : {
+        "entryID" : "-Km8eWebKpzEAFf7Gy5e",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518651045,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8f8RMy00OCqXP9Spo" : {
+        "entryID" : "-Km8f8RMy00OCqXP9Spo",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518651208,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8f9y6JZFLiLLkmkee" : {
+        "entryID" : "-Km8f9y6JZFLiLLkmkee",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518651214,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8jOU6cxFKyJlrTKPJ" : {
+        "entryID" : "-Km8jOU6cxFKyJlrTKPJ",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518652322,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8jPu76BrD2HFayGiv" : {
+        "entryID" : "-Km8jPu76BrD2HFayGiv",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518652328,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8kQ4mno0PC6gyK0ln" : {
+        "entryID" : "-Km8kQ4mno0PC6gyK0ln",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518652591,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8kWrfY2qhqFLuZlw6" : {
+        "entryID" : "-Km8kWrfY2qhqFLuZlw6",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518652619,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8kimgA9oGgRub0EWR" : {
+        "entryID" : "-Km8kimgA9oGgRub0EWR",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518652671,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8kimhIsrqaa3rX7wg" : {
+        "entryID" : "-Km8kimhIsrqaa3rX7wg",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518652672,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8knso382i-zeSasBA" : {
+        "entryID" : "-Km8knso382i-zeSasBA",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518652693,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8lAvxX5MbpIA3Md2w" : {
+        "entryID" : "-Km8lAvxX5MbpIA3Md2w",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518652791,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8lDlI0x2bfAgOh3_T" : {
+        "entryID" : "-Km8lDlI0x2bfAgOh3_T",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518652803,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km8m2hJiyS8u4qh7eb1" : {
+        "entryID" : "-Km8m2hJiyS8u4qh7eb1",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518653019,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km9PM-dUVTdEbxrs_N8" : {
+        "entryID" : "-Km9PM-dUVTdEbxrs_N8",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518663584,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km9PVO2jagZMQJk4QnQ" : {
+        "entryID" : "-Km9PVO2jagZMQJk4QnQ",
+        "entryType" : "Activity",
+        "timestamp" : 518663623,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km9PWVzRi4vK6Xwt6WP" : {
+        "entryID" : "-Km9PWVzRi4vK6Xwt6WP",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518663627,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km9Pg-PJ6lXN4Hpbp1p" : {
+        "entryID" : "-Km9Pg-PJ6lXN4Hpbp1p",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518663670,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km9SMJpq_teFUdEh6TN" : {
+        "entryID" : "-Km9SMJpq_teFUdEh6TN",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518664372,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km9SNViakK0o47ddC6R" : {
+        "entryID" : "-Km9SNViakK0o47ddC6R",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518664375,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-Km9Ufjmcm3Qal2DI1oX" : {
+        "entryID" : "-Km9Ufjmcm3Qal2DI1oX",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518664980,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmBdKuUVQ4sH6Vd721a" : {
+        "entryID" : "-KmBdKuUVQ4sH6Vd721a",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518701065,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmBdMXAxyLlRf4MKHPh" : {
+        "entryID" : "-KmBdMXAxyLlRf4MKHPh",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518701070,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmBdWhftCtbHeNAzBh8" : {
+        "entryID" : "-KmBdWhftCtbHeNAzBh8",
+        "entryType" : "Activity",
+        "timestamp" : 518701115,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmBf6BLof1pGUtadsax" : {
+        "entryID" : "-KmBf6BLof1pGUtadsax",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518701530,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmBfEsz8dUMRlzmT1mG" : {
+        "entryID" : "-KmBfEsz8dUMRlzmT1mG",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518701569,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmBh05Vo53MTrqtMJQX" : {
+        "entryID" : "-KmBh05Vo53MTrqtMJQX",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518702030,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmBh9a7jCUvx84ieZ8l" : {
+        "entryID" : "-KmBh9a7jCUvx84ieZ8l",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518702069,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmBi2YqxSJP3DXJaPTS" : {
+        "entryID" : "-KmBi2YqxSJP3DXJaPTS",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518702302,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmBkbSTD7YFP0TWk1lr" : {
+        "entryID" : "-KmBkbSTD7YFP0TWk1lr",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518702973,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC4rJsXvS38C8L89hi" : {
+        "entryID" : "-KmC4rJsXvS38C8L89hi",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518708542,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC4rJtE7UtbAzo4a_P" : {
+        "entryID" : "-KmC4rJtE7UtbAzo4a_P",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518708543,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC50lVWnM_YUedMKgO" : {
+        "entryID" : "-KmC50lVWnM_YUedMKgO",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518708586,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC5Bf-0m-fFlYN7o_e" : {
+        "entryID" : "-KmC5Bf-0m-fFlYN7o_e",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518708630,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC5PL6HPaTajX7McP7" : {
+        "entryID" : "-KmC5PL6HPaTajX7McP7",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518708687,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC5oeIcEwhlt5qpfrs" : {
+        "entryID" : "-KmC5oeIcEwhlt5qpfrs",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518708795,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC5vD4GUKXt1e_GUkx" : {
+        "entryType" : "Check In",
+        "timestamp" : 518708821,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC6Cc0cTZKvc2m-fPH" : {
+        "entryID" : "-KmC6Cc0cTZKvc2m-fPH",
+        "entryType" : "Check Out",
+        "timestamp" : 518708897,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC6Cc2MlXYfdICZ-4W" : {
+        "entryID" : "-KmC6Cc2MlXYfdICZ-4W",
+        "entryType" : "Activity",
+        "timestamp" : 518708897,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC6ULeixg5hF8BnCwI" : {
+        "entryID" : "-KmC6ULeixg5hF8BnCwI",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518708969,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC6tnxQmEmANO1OGaK" : {
+        "entryID" : "-KmC6tnxQmEmANO1OGaK",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518709078,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC6vBFJ61bjb0cZ20T" : {
+        "entryID" : "-KmC6vBFJ61bjb0cZ20T",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518709083,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC71ynBnarxFLukLFs" : {
+        "entryID" : "-KmC71ynBnarxFLukLFs",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518709115,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC7S0I0vY5lgof25O2" : {
+        "entryID" : "-KmC7S0I0vY5lgof25O2",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518709222,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC7bKcpoY69Zi8j3oc" : {
+        "entryID" : "-KmC7bKcpoY69Zi8j3oc",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518709264,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmC7g2WPXSIqDmwuDJx" : {
+        "entryID" : "-KmC7g2WPXSIqDmwuDJx",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518709283,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmCCL6_Y62_5hpdVjDh" : {
+        "entryID" : "-KmCCL6_Y62_5hpdVjDh",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518710504,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmCC_CrA7fM3bpYE6lU" : {
+        "entryID" : "-KmCC_CrA7fM3bpYE6lU",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518710566,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmCD6lWI0O3x02svUsi" : {
+        "entryID" : "-KmCD6lWI0O3x02svUsi",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518710708,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmD69LOQpgvAPFqyoxT" : {
+        "entryID" : "-KmD69LOQpgvAPFqyoxT",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518725659,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmD6AaG5JUSHWZegVhC" : {
+        "entryID" : "-KmD6AaG5JUSHWZegVhC",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518725666,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmD6DBK1d9o0cyNq1aw" : {
+        "entryID" : "-KmD6DBK1d9o0cyNq1aw",
+        "entryType" : "Activity",
+        "timestamp" : 518725676,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmD6GgtPgQ8mzBlG778" : {
+        "entryID" : "-KmD6GgtPgQ8mzBlG778",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518725691,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmD6WzrfNVD5KhEltHj" : {
+        "entryID" : "-KmD6WzrfNVD5KhEltHj",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518725757,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmD6vU0H_yjbfJSflZ9" : {
+        "entryID" : "-KmD6vU0H_yjbfJSflZ9",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518725862,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDNC393B48E0UUEuqY" : {
+        "entryID" : "-KmDNC393B48E0UUEuqY",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518730128,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDNSp4geoKt2BEm1i5" : {
+        "entryID" : "-KmDNSp4geoKt2BEm1i5",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518730197,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDNVQs7zpwH891SAp5" : {
+        "entryID" : "-KmDNVQs7zpwH891SAp5",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518730207,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDO-VB3X7CaY_t3_TK" : {
+        "entryID" : "-KmDO-VB3X7CaY_t3_TK",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518730339,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDO3E72hqJ_9-d_MCL" : {
+        "entryID" : "-KmDO3E72hqJ_9-d_MCL",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518730354,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDOH8DhD8XoUVdP3Sn" : {
+        "entryID" : "-KmDOH8DhD8XoUVdP3Sn",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518730411,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDOXb0kD7RVQe37RXk" : {
+        "entryID" : "-KmDOXb0kD7RVQe37RXk",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518730478,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDOit1k4V_emPdX3E0" : {
+        "entryID" : "-KmDOit1k4V_emPdX3E0",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518730529,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDOkePzQwzVqql3iog" : {
+        "entryID" : "-KmDOkePzQwzVqql3iog",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518730536,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDPqDQy0DxNZYVvVSy" : {
+        "entryID" : "-KmDPqDQy0DxNZYVvVSy",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518730821,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDPtPmcNkTTWSWfVAc" : {
+        "entryID" : "-KmDPtPmcNkTTWSWfVAc",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518730834,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDQPmxRtVF4d26SjJh" : {
+        "entryID" : "-KmDQPmxRtVF4d26SjJh",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518730970,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDQaSFBGYItNfsrbZR" : {
+        "entryID" : "-KmDQaSFBGYItNfsrbZR",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518731018,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmDSRim3OqqbUBqIsdg" : {
+        "entryID" : "-KmDSRim3OqqbUBqIsdg",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518731503,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmE9via7h1wlvywahmj" : {
+        "entryID" : "-KmE9via7h1wlvywahmj",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518743425,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmE9xNh1MOkfSmDzcxA" : {
+        "entryID" : "-KmE9xNh1MOkfSmDzcxA",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518743433,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmEAOfKhoW5Kv46hDzn" : {
+        "entryID" : "-KmEAOfKhoW5Kv46hDzn",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518743549,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmEAOg8s5vyq9KiAkwp" : {
+        "entryID" : "-KmEAOg8s5vyq9KiAkwp",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518743549,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmEAXoKIvJ3rqJDj7Yf" : {
+        "entryID" : "-KmEAXoKIvJ3rqJDj7Yf",
+        "entryType" : "Activity",
+        "timestamp" : 518743587,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmEAjTbjnDqGG9yXpfX" : {
+        "entryID" : "-KmEAjTbjnDqGG9yXpfX",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518743638,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmEBERLV4LxCaJJ7yZd" : {
+        "entryID" : "-KmEBERLV4LxCaJJ7yZd",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518743768,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmEBERMNwicEu8t8dq5" : {
+        "entryID" : "-KmEBERMNwicEu8t8dq5",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518743769,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmED4Wlm27G0j8TML5Q" : {
+        "entryID" : "-KmED4Wlm27G0j8TML5Q",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518744253,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHTmX14G0zcm-KknLh" : {
+        "entryID" : "-KmHTmX14G0zcm-KknLh",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518798963,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHnWSGcSlPbbxJk2Z9" : {
+        "entryID" : "-KmHnWSGcSlPbbxJk2Z9",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518804399,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHna8IQxkjj9-NzK2g" : {
+        "entryID" : "-KmHna8IQxkjj9-NzK2g",
+        "entryType" : "Activity",
+        "timestamp" : 518804418,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHndzi2gApvnAAQyml" : {
+        "entryID" : "-KmHndzi2gApvnAAQyml",
+        "entryType" : "Activity",
+        "timestamp" : 518804434,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHomcUj_bVGmbf5Raq" : {
+        "entryID" : "-KmHomcUj_bVGmbf5Raq",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518804731,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHp2ZMvD0dH-ncSYxU" : {
+        "entryID" : "-KmHp2ZMvD0dH-ncSYxU",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518804800,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHp4gMaBai7Jzdtq35" : {
+        "entryID" : "-KmHp4gMaBai7Jzdtq35",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518804803,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHuQWiFTVKQrTmPi5D" : {
+        "entryID" : "-KmHuQWiFTVKQrTmPi5D",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518806209,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHuVDGp093C0m84Rox" : {
+        "entryID" : "-KmHuVDGp093C0m84Rox",
+        "entryType" : "Activity",
+        "timestamp" : 518806229,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHunkJzBy6hi9KjjTk" : {
+        "entryID" : "-KmHunkJzBy6hi9KjjTk",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518806308,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHuuHaYFv93KmjCUoj" : {
+        "entryID" : "-KmHuuHaYFv93KmjCUoj",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518806335,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHv5UUhNLloaEG8zwP" : {
+        "entryID" : "-KmHv5UUhNLloaEG8zwP",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518806385,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmHv6yXgbi_iB4WTp0B" : {
+        "entryID" : "-KmHv6yXgbi_iB4WTp0B",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518806391,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmILavMDFUW-sTMOGy1" : {
+        "entryID" : "-KmILavMDFUW-sTMOGy1",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518813579,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmILavNuU_eBZ9MqJw5" : {
+        "entryID" : "-KmILavNuU_eBZ9MqJw5",
+        "entryType" : "Enter Vehicle",
+        "timestamp" : 518813596,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmILiFGYDXtcu_4p5cm" : {
+        "entryID" : "-KmILiFGYDXtcu_4p5cm",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518813626,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmKLgMywHZkBb8sX5HU" : {
+        "entryID" : "-KmKLgMywHZkBb8sX5HU",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518847170,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmMMvECmr7a-yqOEg7-" : {
+        "entryID" : "-KmMMvECmr7a-yqOEg7-",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518881050,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
+      },
+      "-KmMPRZ3-sVXVpjJlPPk" : {
+        "entryID" : "-KmMPRZ3-sVXVpjJlPPk",
+        "entryType" : "Exit Vehicle",
+        "timestamp" : 518881711,
+        "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
+        "username" : "Xinwei Hu"
       }
     }
   },
@@ -24331,6 +27458,162 @@
       "-Km1OHeJMFPiAc3DsQQE" : {
         "timestamp" : 518529086,
         "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-Km3N5o0qVVQSVDBcksG" : {
+        "timestamp" : 518562330,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-Km3YLNENqkcYpjzZl_d" : {
+        "timestamp" : 518565277,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-Km6OCohL7-Y0am11Hfa" : {
+        "timestamp" : 518612953,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-Km6ODuqLJ9FWjxu5L_f" : {
+        "timestamp" : 518612956,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-Km6TZDthM2mBeIyw3ta" : {
+        "timestamp" : 518614355,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmCpG-_p2E-_FCC-OKi" : {
+        "timestamp" : 518720969,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmDguwql7YPF2f2hC45" : {
+        "timestamp" : 518735559,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmDqoZYXtAz2LG9QgSX" : {
+        "timestamp" : 518738154,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmHHKJvsWqzcsCY1DOu" : {
+        "timestamp" : 518795698,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmHJYPOqiL3epyFWWeq" : {
+        "timestamp" : 518796280,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmHL-w5lW7gv8QSORof" : {
+        "timestamp" : 518796663,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmHN-COJCLvG3QuDu1q" : {
+        "timestamp" : 518797184,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmH_r3pnwvHLfoedO70" : {
+        "timestamp" : 518800817,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmHc2BcIwLd5tUParRZ" : {
+        "timestamp" : 518801391,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmI3phLHj_eRqFh9f2m" : {
+        "timestamp" : 518808938,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmI3x3o-o0DEVOO-DcC" : {
+        "timestamp" : 518808968,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmI7iTIYJi0wL-FZ94z" : {
+        "timestamp" : 518809957,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmIKcieWRAYJs0SlKdv" : {
+        "timestamp" : 518813341,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmIPqsZpedRNrbqGlu4" : {
+        "timestamp" : 518814710,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmIVTuqMkrydiRydRL2" : {
+        "timestamp" : 518816184,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmIWDswsZyzbNXiiDrp" : {
+        "timestamp" : 518816381,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmIWEsY-KJzQmkFiI99" : {
+        "timestamp" : 518816384,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmIWY7jbB7IKMnBB8BB" : {
+        "timestamp" : 518816464,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmIWZ3Q7pGNHp5V2Fhi" : {
+        "timestamp" : 518816467,
+        "usageBool" : true,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmIY6zscANY867vK3vr" : {
+        "timestamp" : 518816877,
+        "usageBool" : false,
+        "userID" : "Nilufar",
+        "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
+      },
+      "-KmIY88cgt2FaKVwnrvH" : {
+        "timestamp" : 518816881,
+        "usageBool" : true,
         "userID" : "Nilufar",
         "username" : "CvG2NFL7EWQSfN4GNduRH0k49k63"
       }
@@ -32909,6 +36192,1122 @@
         "usageBool" : false,
         "userID" : "Paul",
         "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7HWdVFCxDgPGo9J3f" : {
+        "timestamp" : 518627974,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7HXQ1x-N-R_3LMteZ" : {
+        "timestamp" : 518627977,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7Hdakeuct6joCBIRY" : {
+        "timestamp" : 518628009,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7Hf4y9_93sPpKHzS8" : {
+        "timestamp" : 518628014,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7Hx9BeUbAXvzwlmLY" : {
+        "timestamp" : 518628088,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7I1mkpG2xEy7GXFPb" : {
+        "timestamp" : 518628112,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7JS7xAtiAT2c0rl35" : {
+        "timestamp" : 518628482,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7JU1NL5Sjj04dksmK" : {
+        "timestamp" : 518628490,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7LGv5P8cl5hpfWyGX" : {
+        "timestamp" : 518628960,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7LPK8L4c2rniSyKHl" : {
+        "timestamp" : 518628995,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7LX66_VIo5k23MT2h" : {
+        "timestamp" : 518629027,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7Lc9PKRd6p6jqxlhM" : {
+        "timestamp" : 518629051,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7V3ZaBSn2-aAqZuUf" : {
+        "timestamp" : 518631527,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7V5DQgWbcAbHpAbtY" : {
+        "timestamp" : 518631534,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7W0eRwRSbCPzcilQk" : {
+        "timestamp" : 518631777,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7ln48clwGZBH6wShE" : {
+        "timestamp" : 518636174,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7m4KjM1ECThOf9SfM" : {
+        "timestamp" : 518636248,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7mLF8WQXtHZuti6Si" : {
+        "timestamp" : 518636318,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7mk4je2cRgCyznL08" : {
+        "timestamp" : 518636424,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7n1xlLkfpYaaqrqIL" : {
+        "timestamp" : 518636501,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7pBnf8vyIPosoWVh5" : {
+        "timestamp" : 518637065,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7pIlC_ZHF0AymKTD3" : {
+        "timestamp" : 518637094,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7pzQb7c0lv-FnRj7P" : {
+        "timestamp" : 518637273,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7q-MiW3mMUvkUVtKc" : {
+        "timestamp" : 518637277,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7qCu50LnFrVX4Btie" : {
+        "timestamp" : 518637332,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7qJcT5Q-OCLn4kCzB" : {
+        "timestamp" : 518637359,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7sBu4GRU-W7eMJzHY" : {
+        "timestamp" : 518637852,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7sG1tLk2BaGvNG5lz" : {
+        "timestamp" : 518637869,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7sYdyGtckqhxRgsvf" : {
+        "timestamp" : 518637945,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7sinFreUTdlvBLgv2" : {
+        "timestamp" : 518637991,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7xkcoBDox6bFUAEd1" : {
+        "timestamp" : 518639309,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7xrD5ZSsj7auhuxOa" : {
+        "timestamp" : 518639336,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7yAnCp86Htrzp7tOI" : {
+        "timestamp" : 518639417,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km7yJ5lmOtKU_Cis-SL" : {
+        "timestamp" : 518639450,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km83yV_09ln_VmyGDVf" : {
+        "timestamp" : 518641200,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km844LQLIAjsO4c0drl" : {
+        "timestamp" : 518641228,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km84SyK21nQfNuy_aEN" : {
+        "timestamp" : 518641329,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km84ycQ3kmNM39ysTk8" : {
+        "timestamp" : 518641463,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km86Yu4ucOJLp_D1xDH" : {
+        "timestamp" : 518641878,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km86_gzoIC8hpGLAZRq" : {
+        "timestamp" : 518641885,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km88x7c9MEswCiV55DG" : {
+        "timestamp" : 518642506,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km88zHpR6ezb_Lm7nau" : {
+        "timestamp" : 518642514,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8Ax6GCSxMTDvrUAKl" : {
+        "timestamp" : 518643030,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8B17X5Cwc_aqViggz" : {
+        "timestamp" : 518643050,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8Bn_Zsygp-APCyBW0" : {
+        "timestamp" : 518643253,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8BxJ9eGx0DPo7odKn" : {
+        "timestamp" : 518643293,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8IBBP1pZqTS4UzQo6" : {
+        "timestamp" : 518644926,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8IIU2fepTEHdjJmBI" : {
+        "timestamp" : 518644956,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8JC_ZIMx3zy5Zo56v" : {
+        "timestamp" : 518645194,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8JNJ7MX09W027a-T6" : {
+        "timestamp" : 518645238,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8J_9dHvLl4KT_rTL2" : {
+        "timestamp" : 518645291,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8JktdZzOuWtl-_bRv" : {
+        "timestamp" : 518645339,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8Lvc5b1ixBSiEID8y" : {
+        "timestamp" : 518645907,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8M388rn9jrdx775Bv" : {
+        "timestamp" : 518645942,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8MWjZsnBGzCW1NLf9" : {
+        "timestamp" : 518646063,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8MXCbAY-I9YhIqc7X" : {
+        "timestamp" : 518646063,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8NJlSLfYoqbeFX60I" : {
+        "timestamp" : 518646271,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8NM7NpjGI20K8tbKP" : {
+        "timestamp" : 518646274,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8P24KWTRyNqiIUKR5" : {
+        "timestamp" : 518646723,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8P7amU_CKvwtffJTq" : {
+        "timestamp" : 518646746,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8PvzTDcvuS88dfHXS" : {
+        "timestamp" : 518646957,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-Km8Q3q4gw9UvC_84ps3" : {
+        "timestamp" : 518646993,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBnflXqxPLWH1_E8Cj" : {
+        "timestamp" : 518703775,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBnhD2Y4gKr7r8LMQZ" : {
+        "timestamp" : 518703780,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBntZOL_sy1L2WIXKX" : {
+        "timestamp" : 518703833,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBo1TVZoVHSSJPhsC1" : {
+        "timestamp" : 518703870,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBoE1QigH_rKgQDKgi" : {
+        "timestamp" : 518703922,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBoPPCACee8AIR4anh" : {
+        "timestamp" : 518703968,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBpvSDclJ_W5qUt0nh" : {
+        "timestamp" : 518704365,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBqGx8YLSyCq8yZql_" : {
+        "timestamp" : 518704456,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBqim2-ugSkTvcbXYK" : {
+        "timestamp" : 518704576,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBqjbdQndP10Bvd7tj" : {
+        "timestamp" : 518704579,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBs6-Dlkt53vs71xBg" : {
+        "timestamp" : 518704936,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBs9GYYwEmmAdqlHqt" : {
+        "timestamp" : 518704951,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBsHvY-OetCqpG_T6S" : {
+        "timestamp" : 518704985,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBsQpnfLuEm3w4Xt1R" : {
+        "timestamp" : 518705023,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBuPd7LWyFbRkIFfHW" : {
+        "timestamp" : 518705542,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBuRBD9bXnT869zjle" : {
+        "timestamp" : 518705548,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBv1eIovqMrzUbKwdK" : {
+        "timestamp" : 518705703,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBvOLYZ4tnkxtG8nKo" : {
+        "timestamp" : 518705799,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBvvKP0_kwa9aUjIlI" : {
+        "timestamp" : 518705935,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBwApN2JyaGLdM9k5M" : {
+        "timestamp" : 518706004,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBy-6-gy29KJPF2my7" : {
+        "timestamp" : 518706482,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBy07vJUjVPSkETs3E" : {
+        "timestamp" : 518706486,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmBzwTDVkAwA67WXHC_" : {
+        "timestamp" : 518706990,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmC-9KRQJdDWAvVygDF" : {
+        "timestamp" : 518707048,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmC0J9Z1j6HfMGJ-xMt" : {
+        "timestamp" : 518707350,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmC0LVBp-KJFX4heeaS" : {
+        "timestamp" : 518707359,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmC0e7CMyX0ksDvCAVv" : {
+        "timestamp" : 518707440,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmC0f7Oos_EGWqWUmbf" : {
+        "timestamp" : 518707444,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmC16TKl0Fud8u4wv7_" : {
+        "timestamp" : 518707560,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmC18JuBVKDyaPWYFPD" : {
+        "timestamp" : 518707567,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmC56H0Shwz5YqHJqjP" : {
+        "timestamp" : 518708609,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCGTJqVIzlVDK3q1xT" : {
+        "timestamp" : 518711586,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCGV1XC1c2CQWDFTUn" : {
+        "timestamp" : 518711592,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCIELNG78UqRPZE1Dq" : {
+        "timestamp" : 518712049,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCIFwvm0hJfUDNHL1L" : {
+        "timestamp" : 518712050,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCLbzk_T-DPGmGXExn" : {
+        "timestamp" : 518712936,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCLgHhmHvN46egH2VG" : {
+        "timestamp" : 518712954,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCPsueE36jbGkUjWf_" : {
+        "timestamp" : 518714054,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCPuhICpmwX5XGe5An" : {
+        "timestamp" : 518714060,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCRIuekJZQXwho0TTO" : {
+        "timestamp" : 518714423,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCRNzlmF_NuJ70w4EN" : {
+        "timestamp" : 518714443,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCRvAMUzb5wbqp4t8Y" : {
+        "timestamp" : 518714583,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCW7O9ATrLTzRSMH2q" : {
+        "timestamp" : 518714618,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCW8wbDyAyTP9yMXTR" : {
+        "timestamp" : 518715695,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCWAGp_Lm-xVN50K_B" : {
+        "timestamp" : 518715698,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCZWEZXAoTAzL2lcuR" : {
+        "timestamp" : 518716578,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCZY9EIfcvGUpi0ylB" : {
+        "timestamp" : 518716579,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCcHjBbk1Z4Xr_uPcc" : {
+        "timestamp" : 518717567,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCcIGuBJ0D2EZN_NG4" : {
+        "timestamp" : 518717567,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCeGJUe_zIrFhK-Fqs" : {
+        "timestamp" : 518718054,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCeHmbkkLtP2FbE12a" : {
+        "timestamp" : 518718088,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCfWD0tzbkeH0p83iE" : {
+        "timestamp" : 518718412,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCfc0WxMfQ6nK0iTOZ" : {
+        "timestamp" : 518718440,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmClOV1lOsF7g90Rcsy" : {
+        "timestamp" : 518719949,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCmIwmMGERiDgp6kPj" : {
+        "timestamp" : 518719956,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCmKSvsvEUpCMPVFTf" : {
+        "timestamp" : 518720195,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCmyMl1IQkzmOfKMfd" : {
+        "timestamp" : 518720202,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCn-AZeu8WAdkchCyi" : {
+        "timestamp" : 518720374,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCnRQRHaNizyQPAypl" : {
+        "timestamp" : 518720490,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCoWD6WkAw3pKkzAAc" : {
+        "timestamp" : 518720771,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCoXfssQHileVobvXI" : {
+        "timestamp" : 518720774,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCq_LK7WR8gQNls-B9" : {
+        "timestamp" : 518721242,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCrY42Okber3en3oEB" : {
+        "timestamp" : 518721318,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCrZnGpL71Rdncbm2r" : {
+        "timestamp" : 518721568,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCs_h25SvExsk8P05R" : {
+        "timestamp" : 518721568,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCtMtmOaKo_3NjPAQD" : {
+        "timestamp" : 518721841,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCtOR3nnJDuanmqJ84" : {
+        "timestamp" : 518721925,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCvoYoYvpHyMlr7zAZ" : {
+        "timestamp" : 518722047,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCwoymOSt7LS4qFkUW" : {
+        "timestamp" : 518722049,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCxQIj7PVOQFV93eGE" : {
+        "timestamp" : 518722690,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCxhpeZ4g4Rt6PthaC" : {
+        "timestamp" : 518722690,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCxjiIeYsW43XPqy7W" : {
+        "timestamp" : 518722913,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCxmIvBF3oCiDBYeC2" : {
+        "timestamp" : 518722914,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCzPLWIdR0MTSaUrwh" : {
+        "timestamp" : 518723187,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmCzPLbclFtfZUrN8bn" : {
+        "timestamp" : 518723187,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmD-kXzup0hUPIsEDSd" : {
+        "timestamp" : 518723621,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmD-mUjC0wVoHRZWoqH" : {
+        "timestamp" : 518723621,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmD0qZ5CXFfAler1p2r" : {
+        "timestamp" : 518724268,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmD0qZ8tWuEoogHvO77" : {
+        "timestamp" : 518724269,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmD3j1FjIgNC7n54d6a" : {
+        "timestamp" : 518725024,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmD40qZLYE9uAtJw_qb" : {
+        "timestamp" : 518725101,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmD8U82PJnrqwKrNIFf" : {
+        "timestamp" : 518726269,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmD8d5yRduzIU6gvIYa" : {
+        "timestamp" : 518726310,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmD8rP1PXExqCD7BM-V" : {
+        "timestamp" : 518726369,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmD8sV7ORAsEtUO2gJx" : {
+        "timestamp" : 518726374,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDAzj1buX9tdTS45DD" : {
+        "timestamp" : 518726928,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDB2vihtI2v1jEU_YE" : {
+        "timestamp" : 518726945,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDBUbGkji5GUVeahHb" : {
+        "timestamp" : 518727057,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDBnAvs543DmUolO-C" : {
+        "timestamp" : 518727138,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDCDEhtfE-9REu5qac" : {
+        "timestamp" : 518727249,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDCF8QQ-umf5_ZbUsB" : {
+        "timestamp" : 518727257,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDFXxJ6UT0WyCCI0sL" : {
+        "timestamp" : 518728119,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDFkPzniCrT6zgGNcE" : {
+        "timestamp" : 518728168,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDGVb-yXvsyS0xLUSd" : {
+        "timestamp" : 518728373,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDGWTeCalsJSMc56n7" : {
+        "timestamp" : 518728374,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDQ9MXJ_rOXKhGArRZ" : {
+        "timestamp" : 518730903,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDQCHmufVXAiy66MV6" : {
+        "timestamp" : 518730915,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDRMGb2kGWzqcP2h1o" : {
+        "timestamp" : 518731218,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDRNOnZCcxrGgbGyhO" : {
+        "timestamp" : 518731222,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDRkF0dJG18AR7eXGl" : {
+        "timestamp" : 518731318,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDRmA_QS8ThPmzq2I-" : {
+        "timestamp" : 518731326,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDTz3lR_06d6_UIocu" : {
+        "timestamp" : 518731905,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDU-KTY8wAp_zUUQE-" : {
+        "timestamp" : 518731910,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDUfq4NjWGM9e3uYs-" : {
+        "timestamp" : 518732088,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDUk4zAof9ZqxDZlti" : {
+        "timestamp" : 518732104,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDXtzpJkas_i1tc1GR" : {
+        "timestamp" : 518732929,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDXwSyZFieNyXQ7LS-" : {
+        "timestamp" : 518732935,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDY6ra6uiUgFYb-pk1" : {
+        "timestamp" : 518732987,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDYaOJbIZ0e6xoJ5u-" : {
+        "timestamp" : 518733111,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDah57uiAOSV6KXtNw" : {
+        "timestamp" : 518733926,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDal-rhk4KP6RNra-0" : {
+        "timestamp" : 518733944,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDbGfVb5t_P7WX0_e3" : {
+        "timestamp" : 518734078,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDbQA_ZNdiBcPfBFMq" : {
+        "timestamp" : 518734117,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDcc4LMCpbgXB_VTnF" : {
+        "timestamp" : 518734432,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDcjdCTsA0f8BnF0ZU" : {
+        "timestamp" : 518734463,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDgo2l4-6AldnYNjGm" : {
+        "timestamp" : 518735529,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDhCzaAaOiBK2jVMKA" : {
+        "timestamp" : 518735636,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDj-_6WGMJzkFhGfFG" : {
+        "timestamp" : 518736099,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDjLO_CWcLQnnna0k1" : {
+        "timestamp" : 518736194,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDjsS3-u2JQ7PfRK6J" : {
+        "timestamp" : 518736329,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDlCw55WkLJpIAu6d2" : {
+        "timestamp" : 518736332,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDlF4WWBUqbru79Er5" : {
+        "timestamp" : 518736690,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDlLTgSt-0JEiGEmF-" : {
+        "timestamp" : 518736719,
+        "usageBool" : true,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
+      },
+      "-KmDmQwG38vJybEu_8o0" : {
+        "timestamp" : 518736996,
+        "usageBool" : false,
+        "userID" : "Paul",
+        "username" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1"
       }
     },
     "Talus' Car" : {
@@ -35452,6 +39851,294 @@
       },
       "-Km1R0wV_QBhjawUu4y9" : {
         "timestamp" : 518529804,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km3IDhL0yr_C5vAwkF3" : {
+        "timestamp" : 518561052,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km3OTXA8eLofcs1E6DN" : {
+        "timestamp" : 518562689,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km3eabRI6Ub2yjSrCLp" : {
+        "timestamp" : 518567177,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km3mTT1AsrPLM1Nb0y4" : {
+        "timestamp" : 518569243,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km6ReW9q5vjVjyQuclm" : {
+        "timestamp" : 518613856,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km6_AkPElJlnbaLWYVe" : {
+        "timestamp" : 518616090,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km8cTQ6Rhn4ErY4qHTY" : {
+        "timestamp" : 518650507,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km8m01T8JbHiYIhgdyn" : {
+        "timestamp" : 518653008,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km8tpEycvmwHMMeiD4m" : {
+        "timestamp" : 518655057,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km8u_LuRANUo18l1kSg" : {
+        "timestamp" : 518655252,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km9EgXpcAKfl0Km1kXC" : {
+        "timestamp" : 518660786,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km9HmxEPOo8QSeY0drp" : {
+        "timestamp" : 518661601,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km9LKB4NcuW_0TpJqoj" : {
+        "timestamp" : 518662525,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km9LKsdNriMme4bV-lI" : {
+        "timestamp" : 518662525,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km9WRnImoAMhhzVGXVT" : {
+        "timestamp" : 518665442,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-Km9cDjB9jQCGGsXvXRn" : {
+        "timestamp" : 518667219,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmCfe4P_DUS0S6NjnUX" : {
+        "timestamp" : 518718449,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmCfe4QVupzZig9sSYr" : {
+        "timestamp" : 518718451,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmCfukVMRxEk00TRE5S" : {
+        "timestamp" : 518718519,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmDVJ_g_6EscZUOs7FQ" : {
+        "timestamp" : 518732256,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmDevB1zjkmFJqTjtVh" : {
+        "timestamp" : 518735036,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmDgazytCh1tHjEe0US" : {
+        "timestamp" : 518735477,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmDoe4AseUpazvuWS3Q" : {
+        "timestamp" : 518737586,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmDoel-_n3yX5xCEG9N" : {
+        "timestamp" : 518737587,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmDryOLOYa1RZmsR98_" : {
+        "timestamp" : 518738456,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmDs7Q-YXFdT73yaC1_" : {
+        "timestamp" : 518738498,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmDxq1bPjDvdIVknZVX" : {
+        "timestamp" : 518739995,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmE3-r_YbF8FXkhmw6a" : {
+        "timestamp" : 518741612,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmEl-Q5xyc6uvsrPO5t" : {
+        "timestamp" : 518753406,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmEqhVNmc7Rc7kkw40K" : {
+        "timestamp" : 518754903,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmH73K7j-B8a0vMsvMo" : {
+        "timestamp" : 518793006,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmH8lxrO3Nnu4kLb5f6" : {
+        "timestamp" : 518793455,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmH9CiF_v1bnzM-MCpS" : {
+        "timestamp" : 518793569,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmHAXEOzkf4tUwbaZOS" : {
+        "timestamp" : 518793916,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmHCeE14YHloI7NWi8N" : {
+        "timestamp" : 518794471,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmHDPcy5xjFXlv8Stf2" : {
+        "timestamp" : 518794670,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmHir3hMGwl6ibhiXkw" : {
+        "timestamp" : 518803175,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmHmPG8LQMNdmptrtDL" : {
+        "timestamp" : 518804106,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmIPAIbUz7oyF4rvpH_" : {
+        "timestamp" : 518814530,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmIUgoUho7qG9nWb62-" : {
+        "timestamp" : 518815979,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmIbbU3aTZ_DXtSr5Gc" : {
+        "timestamp" : 518818054,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmIddzQEnGKRmQXFF0i" : {
+        "timestamp" : 518818587,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmIg7LWcs03RPyLkkFt" : {
+        "timestamp" : 518819237,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmIi6IMkIWIQfmet_sE" : {
+        "timestamp" : 518819755,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmLxvJbgyfvjow9objn" : {
+        "timestamp" : 518874232,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmMDjMH8hnO0RGryV7m" : {
+        "timestamp" : 518874235,
+        "usageBool" : false,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmMDl9p20ZuBAfJ8Yhg" : {
+        "timestamp" : 518878643,
+        "usageBool" : true,
+        "userID" : "Talus",
+        "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
+      },
+      "-KmMDqLCDkMDqkZ5Ftbq" : {
+        "timestamp" : 518878666,
         "usageBool" : false,
         "userID" : "Talus",
         "username" : "prj01kwKCoRQG80s6NJrUD3uK9p1"
@@ -40371,13 +45058,829 @@
         "usageBool" : true,
         "userID" : "Xinwei Hu",
         "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km2sc-l_y1a4-dO6WOl" : {
+        "timestamp" : 518554078,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km33FnQwIjmgRECwRcd" : {
+        "timestamp" : 518557125,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km33Y01SjhakjYme1dp" : {
+        "timestamp" : 518557203,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km33Y0RsYNk8i3R-dJE" : {
+        "timestamp" : 518557203,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km369oY6XlQ2fPKLsyC" : {
+        "timestamp" : 518557890,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km36CQ44By0RjGlzbG7" : {
+        "timestamp" : 518557901,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km37svehSChydWVWxeB" : {
+        "timestamp" : 518558341,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km37zDYTTHAaqihLb6u" : {
+        "timestamp" : 518558367,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km38ERicGIMEiC3YU_A" : {
+        "timestamp" : 518558433,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km38FoJEqUmqOg__r-Y" : {
+        "timestamp" : 518558439,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km38SUnEiFOuRNNyx2H" : {
+        "timestamp" : 518558491,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km38WRkDvFKXvAQ_-6L" : {
+        "timestamp" : 518558507,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km39jW4yG3Jqz0Y-Tsg" : {
+        "timestamp" : 518558827,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km39t7Oww6i9wPpfdii" : {
+        "timestamp" : 518558866,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3A57ZygenTEFiyUhS" : {
+        "timestamp" : 518558919,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3AO6KE6OnT_vxAcPY" : {
+        "timestamp" : 518558997,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3AW92AzFT-hlfObA_" : {
+        "timestamp" : 518559030,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3EXOkL__acnbXtk09" : {
+        "timestamp" : 518560084,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3F8thk6j-lL61KxcL" : {
+        "timestamp" : 518560246,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3FBG_Sm7VhdHnbucu" : {
+        "timestamp" : 518560255,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3FNu5Dtxu-03-8B2E" : {
+        "timestamp" : 518560307,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3FPxZjhOhGUqPqlXN" : {
+        "timestamp" : 518560315,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3Ff9cJCYcZ9Sn-E1n" : {
+        "timestamp" : 518560382,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3FrHd1zXQL55u4leD" : {
+        "timestamp" : 518560431,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3Gudw8tUWMFfXsawi" : {
+        "timestamp" : 518560707,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3HHcaU0K01eD4AcMl" : {
+        "timestamp" : 518560805,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3HcxJE5uVeEY8asrp" : {
+        "timestamp" : 518560897,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3HroTrtCJDPcJLzge" : {
+        "timestamp" : 518560957,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3HzKu-9cOajEAwAc4" : {
+        "timestamp" : 518560988,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3I1-gLJrB02YSvrpd" : {
+        "timestamp" : 518560999,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3IVr3FJLK-uWhZcwc" : {
+        "timestamp" : 518561126,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3b-60F2_hUdL5OSMU" : {
+        "timestamp" : 518566029,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km3b-69DOMH6BkDa_3j" : {
+        "timestamp" : 518566233,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km43nY89ZmU3eGX1YT7" : {
+        "timestamp" : 518566240,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km43n_GeAuDG7AxAqwa" : {
+        "timestamp" : 518574048,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km4Cj51TPuP_fQubSpN" : {
+        "timestamp" : 518576386,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km4Cj53qw00s2NPE-fp" : {
+        "timestamp" : 518576389,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km4Dfr6L_BEmfr4rfGg" : {
+        "timestamp" : 518576638,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km6j7XYa8k4K_IG08nG" : {
+        "timestamp" : 518618698,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km6jS1QZatjl7Tk01WG" : {
+        "timestamp" : 518618782,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km6jUxOxmK9OOUWp75f" : {
+        "timestamp" : 518618794,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km6o6sm5I2CRGFhIgXn" : {
+        "timestamp" : 518620006,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km7GR1Eg_EPwlk2lLqL" : {
+        "timestamp" : 518627691,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km7MqFR2-RAPXyJqOzQ" : {
+        "timestamp" : 518629371,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km7y0KueitPwzvlafKN" : {
+        "timestamp" : 518639376,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8AK9K7LYllKhPPn5J" : {
+        "timestamp" : 518642867,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8Aamf_ZVUdCQXZQx2" : {
+        "timestamp" : 518642940,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8dnedCgomuMvERvce" : {
+        "timestamp" : 518650855,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8dp1Ed3OqvK461RjA" : {
+        "timestamp" : 518650862,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8e9HDV7-62dRaLtSk" : {
+        "timestamp" : 518650949,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8eWebKpzEAFf7Gy5e" : {
+        "timestamp" : 518651045,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8f8RMy00OCqXP9Spo" : {
+        "timestamp" : 518651208,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8f9y6JZFLiLLkmkee" : {
+        "timestamp" : 518651214,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8jOU6cxFKyJlrTKPJ" : {
+        "timestamp" : 518652322,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8jPu76BrD2HFayGiv" : {
+        "timestamp" : 518652328,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8kQ4mno0PC6gyK0ln" : {
+        "timestamp" : 518652591,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8kWrfY2qhqFLuZlw6" : {
+        "timestamp" : 518652619,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8kimgA9oGgRub0EWR" : {
+        "timestamp" : 518652671,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8kimhIsrqaa3rX7wg" : {
+        "timestamp" : 518652672,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8knso382i-zeSasBA" : {
+        "timestamp" : 518652693,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8lAvxX5MbpIA3Md2w" : {
+        "timestamp" : 518652791,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8lDlI0x2bfAgOh3_T" : {
+        "timestamp" : 518652803,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km8m2hJiyS8u4qh7eb1" : {
+        "timestamp" : 518653019,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km9PM-dUVTdEbxrs_N8" : {
+        "timestamp" : 518663584,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km9PWVzRi4vK6Xwt6WP" : {
+        "timestamp" : 518663627,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km9Pg-PJ6lXN4Hpbp1p" : {
+        "timestamp" : 518663670,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km9SMJpq_teFUdEh6TN" : {
+        "timestamp" : 518664372,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km9SNViakK0o47ddC6R" : {
+        "timestamp" : 518664375,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-Km9Ufjmcm3Qal2DI1oX" : {
+        "timestamp" : 518664980,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmBdKuUVQ4sH6Vd721a" : {
+        "timestamp" : 518701065,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmBdMXAxyLlRf4MKHPh" : {
+        "timestamp" : 518701070,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmBf6BLof1pGUtadsax" : {
+        "timestamp" : 518701530,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmBfEsz8dUMRlzmT1mG" : {
+        "timestamp" : 518701569,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmBh05Vo53MTrqtMJQX" : {
+        "timestamp" : 518702030,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmBh9a7jCUvx84ieZ8l" : {
+        "timestamp" : 518702069,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmBi2YqxSJP3DXJaPTS" : {
+        "timestamp" : 518702302,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmBkbSTD7YFP0TWk1lr" : {
+        "timestamp" : 518702973,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC4rJsXvS38C8L89hi" : {
+        "timestamp" : 518708542,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC4rJtE7UtbAzo4a_P" : {
+        "timestamp" : 518708543,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC50lVWnM_YUedMKgO" : {
+        "timestamp" : 518708586,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC5Bf-0m-fFlYN7o_e" : {
+        "timestamp" : 518708630,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC5PL6HPaTajX7McP7" : {
+        "timestamp" : 518708687,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC5oeIcEwhlt5qpfrs" : {
+        "timestamp" : 518708795,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC6ULeixg5hF8BnCwI" : {
+        "timestamp" : 518708969,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC6tnxQmEmANO1OGaK" : {
+        "timestamp" : 518709078,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC6vBFJ61bjb0cZ20T" : {
+        "timestamp" : 518709083,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC71ynBnarxFLukLFs" : {
+        "timestamp" : 518709115,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC7S0I0vY5lgof25O2" : {
+        "timestamp" : 518709222,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC7bKcpoY69Zi8j3oc" : {
+        "timestamp" : 518709264,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmC7g2WPXSIqDmwuDJx" : {
+        "timestamp" : 518709283,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmCCL6_Y62_5hpdVjDh" : {
+        "timestamp" : 518710504,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmCC_CrA7fM3bpYE6lU" : {
+        "timestamp" : 518710566,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmCD6lWI0O3x02svUsi" : {
+        "timestamp" : 518710708,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmD69LOQpgvAPFqyoxT" : {
+        "timestamp" : 518725659,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmD6AaG5JUSHWZegVhC" : {
+        "timestamp" : 518725666,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmD6GgtPgQ8mzBlG778" : {
+        "timestamp" : 518725691,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmD6WzrfNVD5KhEltHj" : {
+        "timestamp" : 518725757,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmD6vU0H_yjbfJSflZ9" : {
+        "timestamp" : 518725862,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDNC393B48E0UUEuqY" : {
+        "timestamp" : 518730128,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDNSp4geoKt2BEm1i5" : {
+        "timestamp" : 518730197,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDNVQs7zpwH891SAp5" : {
+        "timestamp" : 518730207,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDO-VB3X7CaY_t3_TK" : {
+        "timestamp" : 518730339,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDO3E72hqJ_9-d_MCL" : {
+        "timestamp" : 518730354,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDOH8DhD8XoUVdP3Sn" : {
+        "timestamp" : 518730411,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDOXb0kD7RVQe37RXk" : {
+        "timestamp" : 518730478,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDOit1k4V_emPdX3E0" : {
+        "timestamp" : 518730529,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDOkePzQwzVqql3iog" : {
+        "timestamp" : 518730536,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDPqDQy0DxNZYVvVSy" : {
+        "timestamp" : 518730821,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDPtPmcNkTTWSWfVAc" : {
+        "timestamp" : 518730834,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDQPmxRtVF4d26SjJh" : {
+        "timestamp" : 518730970,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDQaSFBGYItNfsrbZR" : {
+        "timestamp" : 518731018,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmDSRim3OqqbUBqIsdg" : {
+        "timestamp" : 518731503,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmE9via7h1wlvywahmj" : {
+        "timestamp" : 518743425,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmE9xNh1MOkfSmDzcxA" : {
+        "timestamp" : 518743433,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmEAOfKhoW5Kv46hDzn" : {
+        "timestamp" : 518743549,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmEAOg8s5vyq9KiAkwp" : {
+        "timestamp" : 518743549,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmEAjTbjnDqGG9yXpfX" : {
+        "timestamp" : 518743638,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmEBERLV4LxCaJJ7yZd" : {
+        "timestamp" : 518743768,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmEBERMNwicEu8t8dq5" : {
+        "timestamp" : 518743769,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmED4Wlm27G0j8TML5Q" : {
+        "timestamp" : 518744253,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmHTmX14G0zcm-KknLh" : {
+        "timestamp" : 518798963,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmHnWSGcSlPbbxJk2Z9" : {
+        "timestamp" : 518804399,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmHomcUj_bVGmbf5Raq" : {
+        "timestamp" : 518804731,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmHp2ZMvD0dH-ncSYxU" : {
+        "timestamp" : 518804800,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmHp4gMaBai7Jzdtq35" : {
+        "timestamp" : 518804803,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmHuQWiFTVKQrTmPi5D" : {
+        "timestamp" : 518806209,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmHunkJzBy6hi9KjjTk" : {
+        "timestamp" : 518806308,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmHuuHaYFv93KmjCUoj" : {
+        "timestamp" : 518806335,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmHv5UUhNLloaEG8zwP" : {
+        "timestamp" : 518806385,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmHv6yXgbi_iB4WTp0B" : {
+        "timestamp" : 518806391,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmILavMDFUW-sTMOGy1" : {
+        "timestamp" : 518813579,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmILavNuU_eBZ9MqJw5" : {
+        "timestamp" : 518813596,
+        "usageBool" : true,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmILiFGYDXtcu_4p5cm" : {
+        "timestamp" : 518813626,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmKLgMywHZkBb8sX5HU" : {
+        "timestamp" : 518847170,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmMMvECmr7a-yqOEg7-" : {
+        "timestamp" : 518881050,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
+      },
+      "-KmMPRZ3-sVXVpjJlPPk" : {
+        "timestamp" : 518881711,
+        "usageBool" : false,
+        "userID" : "Xinwei Hu",
+        "username" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2"
       }
     }
   },
   "users" : {
     "CvG2NFL7EWQSfN4GNduRH0k49k63" : {
       "AVL Vehicle 2" : {
-        "isInRange" : false,
+        "isInRange" : true,
         "isOut" : true
       },
       "Ford HiL" : {
@@ -40387,7 +45890,7 @@
         "isInRange" : false
       },
       "X's Car" : {
-        "isInRange" : true
+        "isInRange" : false
       },
       "username" : "Nilufar"
     },
@@ -40433,7 +45936,7 @@
         "isInRange" : false
       },
       "X's Car" : {
-        "isInRange" : true,
+        "isInRange" : false,
         "isOut" : true
       },
       "username" : "Xinwei Hu"
@@ -40466,92 +45969,92 @@
         "isInRange" : false
       },
       "X's Car" : {
-        "isInRange" : true
+        "isInRange" : false
       },
       "username" : "Paul"
     }
   },
   "vehicle" : {
     "AVL Vehicle 2" : {
-      "duration" : 4720856,
-      "durationInVehicle" : 579405,
+      "duration" : 5008651,
+      "durationInVehicle" : 591098,
       "imageURL" : "https://firebasestorage.googleapis.com/v0/b/vehiclemonitoringalpha.appspot.com/o/bmw.jpg?alt=media&token=fba9ebf5-8529-41c6-b1c2-3e973dc7dd60",
       "isOut" : true,
-      "location" : "School",
-      "refActivityDuration" : 1135,
-      "refActivityDurationInVehicle" : 1135,
-      "refActivityKey" : "-Km1JxUWhslMkceShMvC",
-      "refEventDuration" : 4720856,
-      "refEventDurationInVehicle" : 579405,
+      "location" : "Shop",
+      "refActivityDuration" : 681,
+      "refActivityDurationInVehicle" : 671,
+      "refActivityKey" : "-KmIVXd4YDaRN9Hh0M_s",
+      "refEventDuration" : 5008651,
+      "refEventDurationInVehicle" : 591098,
       "refEventKey" : "-Khd02jM4NTavQbdcb0o",
-      "refIsInRangeValue" : false,
+      "refIsInRangeValue" : true,
       "refIsOutValue" : true,
-      "refTimestampKey" : "-Km1OHeJMFPiAc3DsQQE",
-      "refTimestampValue" : 518529086,
-      "refUsageKey" : "-Km1OHeJMFPiAc3DsQQE",
+      "refTimestampKey" : "-KmIY88cgt2FaKVwnrvH",
+      "refTimestampValue" : 518816881,
+      "refUsageKey" : "-KmIY88cgt2FaKVwnrvH",
       "userID" : "CvG2NFL7EWQSfN4GNduRH0k49k63",
       "username" : "Nilufar",
       "vehicleID" : "AVL Vehicle 2"
     },
     "Ford HiL" : {
-      "duration" : 4040091,
-      "durationInVehicle" : 1118249,
+      "duration" : 4242329,
+      "durationInVehicle" : 1219292,
       "imageURL" : "https://firebasestorage.googleapis.com/v0/b/vehiclemonitoringalpha.appspot.com/o/HiL.jpg?alt=media&token=87ee71b9-f338-426e-bc6c-3a2ef126de76",
       "isOut" : true,
       "location" : "Ford Dearborn",
-      "refActivityDuration" : 510728,
-      "refActivityDurationInVehicle" : 79660,
+      "refActivityDuration" : 712966,
+      "refActivityDurationInVehicle" : 180703,
       "refActivityKey" : "-KlZHdsM26RPa4F5b4Rm",
-      "refEventDuration" : 4039833,
-      "refEventDurationInVehicle" : 1118249,
+      "refEventDuration" : 4242071,
+      "refEventDurationInVehicle" : 1219292,
       "refEventKey" : "-KiGwgJKAAhBl1xfsFyG",
       "refIsInRangeValue" : false,
       "refIsOutValue" : true,
-      "refTimestampKey" : "-Km1ivJVlHjfbEGo_5gd",
-      "refTimestampValue" : 518534758,
-      "refUsageKey" : "-Km1ivJVlHjfbEGo_5gd",
+      "refTimestampKey" : "-KmDmQwG38vJybEu_8o0",
+      "refTimestampValue" : 518736996,
+      "refUsageKey" : "-KmDmQwG38vJybEu_8o0",
       "userID" : "y5DJ8b8bTiPuh12Cd8YhGCEMTJx1",
       "username" : "Paul",
       "vehicleID" : "Ford HiL"
     },
     "Talus' Car" : {
-      "duration" : 4034250,
-      "durationInVehicle" : 497087,
+      "duration" : 4383112,
+      "durationInVehicle" : 520878,
       "imageURL" : "https://firebasestorage.googleapis.com/v0/b/vehiclemonitoringalpha.appspot.com/o/audi.jpg?alt=media&token=733a6865-0e76-4a7e-9cf8-acde73dfaa52",
       "isOut" : true,
       "location" : "Home",
-      "refActivityDuration" : 2904901,
-      "refActivityDurationInVehicle" : 229248,
-      "refActivityKey" : "-KjKHhQomhOoaud-hKK2",
-      "refEventDuration" : 4034250,
-      "refEventDurationInVehicle" : 497087,
+      "refActivityDuration" : 146372,
+      "refActivityDurationInVehicle" : 12460,
+      "refActivityKey" : "-KmDVSlR68vrxAqCjAAd",
+      "refEventDuration" : 4383112,
+      "refEventDurationInVehicle" : 520878,
       "refEventKey" : "-KiGy_L4CmZ3Iw-xXOC4",
       "refIsInRangeValue" : false,
       "refIsOutValue" : true,
-      "refTimestampKey" : "-Km1R0wV_QBhjawUu4y9",
-      "refTimestampValue" : 518529804,
-      "refUsageKey" : "-Km1R0wV_QBhjawUu4y9",
+      "refTimestampKey" : "-KmMDqLCDkMDqkZ5Ftbq",
+      "refTimestampValue" : 518878666,
+      "refUsageKey" : "-KmMDqLCDkMDqkZ5Ftbq",
       "userID" : "prj01kwKCoRQG80s6NJrUD3uK9p1",
       "username" : "Talus",
       "vehicleID" : "Talus' Car"
     },
     "X's Car" : {
-      "duration" : 4147564,
-      "durationInVehicle" : 1504047,
+      "duration" : 4475326,
+      "durationInVehicle" : 1525310,
       "imageURL" : "https://firebasestorage.googleapis.com/v0/b/vehiclemonitoringalpha.appspot.com/o/vw.jpg?alt=media&token=9e828412-fac1-4cb8-844e-a2ce443f911b",
       "isOut" : true,
-      "location" : "Customers' Site",
-      "refActivityDuration" : 437943,
-      "refActivityDurationInVehicle" : 432695,
-      "refActivityKey" : "-KldlVrfdEUFrbZbBvtb",
-      "refEventDuration" : 610947,
-      "refEventDurationInVehicle" : 432801,
-      "refEventKey" : "-KlUSYS6-bDmVh1MDCs3",
-      "refIsInRangeValue" : true,
+      "location" : "Home",
+      "refActivityDuration" : 75482,
+      "refActivityDurationInVehicle" : 7364,
+      "refActivityKey" : "-KmHuVDGp093C0m84Rox",
+      "refEventDuration" : 172814,
+      "refEventDurationInVehicle" : 12454,
+      "refEventKey" : "-KmC6Cc0cTZKvc2m-fPH",
+      "refIsInRangeValue" : false,
       "refIsOutValue" : true,
-      "refTimestampKey" : "-Km2s7aN2ph1NSNpmPi9",
-      "refTimestampValue" : 518553949,
-      "refUsageKey" : "-Km2s7aN2ph1NSNpmPi9",
+      "refTimestampKey" : "-KmMPRZ3-sVXVpjJlPPk",
+      "refTimestampValue" : 518881711,
+      "refUsageKey" : "-KmMPRZ3-sVXVpjJlPPk",
       "userID" : "NtA4VhpCb3TGYz3tI3CkfmuQF7f2",
       "username" : "Xinwei Hu",
       "vehicleID" : "X's Car"

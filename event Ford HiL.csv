@@ -1,2 +1,2 @@
-key,duration,durationInVehicle,event,isInRange,timestamp,userID,username,date
--KiGwgJKAAhBl1xfsFyG,4039833,1118249,Check Out,True,514495058,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-04-21 15:17:38
+key,duration,Total Time,durationInVehicle,Time in Vehicle,event,isInRange,timestamp,userID,username,date
+-KiGwgJKAAhBl1xfsFyG,4242071,1178.3530555555556,1219292,338.6922222222222,Check Out,True,514495058,y5DJ8b8bTiPuh12Cd8YhGCEMTJx1,Paul,2017-04-21 15:17:38
